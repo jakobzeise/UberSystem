@@ -1,9 +1,9 @@
 public class Ride {
 
-    int rideID;
-    String rideType;
-    int noOfSeats;
-    String registrationNo;
+    private int rideID;
+    private String rideType;
+    private int noOfSeats;
+    private String registrationNo;
 
     public Ride(int rideID, String rideType, int noOfSeats, String registrationNo) {
         this.rideID = rideID;
@@ -46,11 +46,10 @@ public class Ride {
 
     @Override
     public String toString() {
-        return "Ride{" +
-                "rideID=" + rideID +
-                ", rideType='" + rideType + '\'' +
-                ", noOfSeats=" + noOfSeats +
-                ", registrationNo='" + registrationNo + '\'' +
-                '}';
+        return
+                        "\trideID=" + getRideID() + "\n" +
+                        "\trideType='" + getRideType() + '\'' + "\n" +
+                        "\tnoOfSeats=" + getNoOfSeats() + "\n" +
+                        "\tregistrationNo='" + getRegistrationNo() + '\'' + "\n";
     }
 }

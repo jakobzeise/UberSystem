@@ -1,0 +1,1192 @@
+------------------ Welcome to Uber ------------------
+
+Command Add_Captain: Add a new captain record in the System
+
+	ID=501
+	Name=Rida_Ahmad_Zahrani
+	Email=rida.a@gmail.com
+	Date of Birth=Wed Nov 12 00:00:00 CET 3873
+	Gender=M
+	Phone=534528754
+	Address=Rehab
+	Employee ID=3215
+	Employee Description=Full_time
+	On Leave=true
+	Driving LicenseNo=32154254
+	Total Rides=155
+	Rating=4.2
+ 
+----------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+	ID=502
+	Name=Zahid_Ali
+	Email=zahid.ali@outlook.com
+	Date of Birth=Tue May 07 00:00:00 CEST 3878
+	Gender=M
+	Phone=505487196
+	Address=Fayha
+	Employee ID=3654
+	Employee Description=Part_time
+	On Leave=false
+	Driving LicenseNo=21453654
+	Total Rides=41
+	Rating=4.25
+ 
+----------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+	ID=503
+	Name=Shahid_Aman
+	Email=shah234@yahoo.com
+	Date of Birth=Mon Aug 21 00:00:00 CEST 3882
+	Gender=M
+	Phone=567894874
+	Address=Kandara
+	Employee ID=3985
+	Employee Description=Full_time
+	On Leave=false
+	Driving LicenseNo=32845621
+	Total Rides=504
+	Rating=4.1
+ 
+----------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+	ID=504
+	Name=John_Zukie
+	Email=john.zu@mail.com
+	Date of Birth=Tue Apr 24 00:00:00 CEST 3877
+	Gender=M
+	Phone=525477415
+	Address=Balad
+	Employee ID=3158
+	Employee Description=Part_time
+	On Leave=false
+	Driving LicenseNo=74563215
+	Total Rides=241
+	Rating=3.84
+ 
+----------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+	ID=505
+	Name=Yasser_Ali
+	Email=yass33@gmail.com
+	Date of Birth=Sat Oct 28 00:00:00 CEST 3876
+	Gender=M
+	Phone=547871054
+	Address=Rehab
+	Employee ID=3633
+	Employee Description=Part_time
+	On Leave=true
+	Driving LicenseNo=58416556
+	Total Rides=114
+	Rating=4.58
+ 
+----------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+	ID=506
+	Name=Ahmed_Qahtani
+	Email=ahmed.wqa@outlook.com
+	Date of Birth=Thu Mar 18 00:00:00 CET 3875
+	Gender=M
+	Phone=500587414
+	Address=Jamia
+	Employee ID=3252
+	Employee Description=Full_time
+	On Leave=false
+	Driving LicenseNo=12335484
+	Total Rides=354
+	Rating=3.74
+ 
+----------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+	ID=507
+	Name=Zahoor_Rashid
+	Email=zahoor12@hotmail.com
+	Date of Birth=Tue Mar 15 00:00:00 CET 3881
+	Gender=M
+	Phone=538700365
+	Address=Rehab
+	Employee ID=3984
+	Employee Description=Part_time
+	On Leave=true
+	Driving LicenseNo=17785464
+	Total Rides=287
+	Rating=4.5
+ 
+----------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+	ID=508
+	Name=Amna_Ayman
+	Email=amna.22@yahoo.com
+	Date of Birth=Thu Sep 17 00:00:00 CEST 3868
+	Gender=F
+	Phone=537874123
+	Address=Jamia
+	Employee ID=3451
+	Employee Description=Full_time
+	On Leave=false
+	Driving LicenseNo=84111256
+	Total Rides=412
+	Rating=3.8
+ 
+----------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+	ID=509
+	Name=Nassr_Alqahtani
+	Email=nassr42@yahoo.com
+	Date of Birth=Sun Jul 30 00:00:00 CEST 3865
+	Gender=M
+	Phone=547803485
+	Address=Kandara
+	Employee ID=3325
+	Employee Description=Full_time
+	On Leave=false
+	Driving LicenseNo=74545435
+	Total Rides=368
+	Rating=4.45
+ 
+----------------------------------------------
+Command Add_Captain: Add a new captain record in the System
+
+	ID=510
+	Name=Maryam_Alzahrani
+	Email=maryam@ymail.com
+	Date of Birth=Sat May 08 00:00:00 CEST 3880
+	Gender=F
+	Phone=508793215
+	Address=Fayha
+	Employee ID=3759
+	Employee Description=Full_time
+	On Leave=true
+	Driving LicenseNo=56467589
+	Total Rides=435
+	Rating=4.11
+ 
+----------------------------------------------
+Command Add_UberAdmin: Add a new uberAdmin record in the System
+
+	ID=801
+	Name=Mubarak_Alghamdi
+	Email=mubarak@uber.com
+	Date of Birth=Tue Jun 08 00:00:00 CEST 3897
+	Gender=M
+	Phone=547871054
+	Address=Rehab
+	Employee ID=1001
+	Employee Description=Supervisor
+	On Leave=false
+	Department=OperationXL
+ 
+----------------------------------------------
+Command Add_UberAdmin: Add a new uberAdmin record in the System
+
+	ID=802
+	Name=Alaa_Turki
+	Email=alaa@uber.com
+	Date of Birth=Mon Feb 14 00:00:00 CET 3881
+	Gender=M
+	Phone=505856612
+	Address=Jamia
+	Employee ID=1008
+	Employee Description=Assistant_Supervisor
+	On Leave=false
+	Department=OperationX
+ 
+----------------------------------------------
+Command Add_UberAdmin: Add a new uberAdmin record in the System
+
+	ID=803
+	Name=Maqbol_Alqahtani
+	Email=maqbol@uber.com
+	Date of Birth=Wed Sep 22 00:00:00 CEST 3869
+	Gender=M
+	Phone=523003344
+	Address=Kandara
+	Employee ID=1054
+	Employee Description=GPS_Specialist
+	On Leave=true
+	Department=OperationXL
+ 
+----------------------------------------------
+Command Add_UberAdmin: Add a new uberAdmin record in the System
+
+	ID=804
+	Name=Liaqat_Jalal
+	Email=liaqat@uber.com
+	Date of Birth=Sun Nov 25 00:00:00 CET 3888
+	Gender=M
+	Phone=547674174
+	Address=Balad
+	Employee ID=1086
+	Employee Description=Manager
+	On Leave=false
+	Department=OperationPOOL
+ 
+----------------------------------------------
+Command Add_UberAdmin: Add a new uberAdmin record in the System
+
+	ID=805
+	Name=Basher_Bandar
+	Email=basher@uber.com
+	Date of Birth=Fri May 28 00:00:00 CEST 3875
+	Gender=M
+	Phone=554803421
+	Address=Kandara
+	Employee ID=1021
+	Employee Description=Supervisor
+	On Leave=false
+	Department=OperationX
+ 
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5001
+	rideType='UberX'
+	noOfSeats=4
+	registrationNo='LRA6452'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5002
+	rideType='UberXL'
+	noOfSeats=7
+	registrationNo='FNO1212'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5003
+	rideType='Pool'
+	noOfSeats=4
+	registrationNo='MEH8542'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5004
+	rideType='UberX'
+	noOfSeats=6
+	registrationNo='AKA434'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5005
+	rideType='UberX'
+	noOfSeats=7
+	registrationNo='SMA9141'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5006
+	rideType='UberX'
+	noOfSeats=7
+	registrationNo='MAL2574'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5007
+	rideType='Pool'
+	noOfSeats=4
+	registrationNo='RAS8731'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5008
+	rideType='UberXL'
+	noOfSeats=7
+	registrationNo='WBI9814'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5009
+	rideType='Pool'
+	noOfSeats=4
+	registrationNo='UAI731'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5010
+	rideType='UberX'
+	noOfSeats=4
+	registrationNo='LAI7331'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5011
+	rideType='UberXL'
+	noOfSeats=4
+	registrationNo='CAK5231'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5012
+	rideType='Pool'
+	noOfSeats=4
+	registrationNo='FOA3231'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5013
+	rideType='UberXL'
+	noOfSeats=7
+	registrationNo='NOM587'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5014
+	rideType='UberX'
+	noOfSeats=4
+	registrationNo='LAK4512'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5015
+	rideType='Pool'
+	noOfSeats=4
+	registrationNo='ADS8745'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5016
+	rideType='UberXL'
+	noOfSeats=6
+	registrationNo='ONR5824'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5017
+	rideType='Pool'
+	noOfSeats=6
+	registrationNo='GBR4438'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5018
+	rideType='UberX'
+	noOfSeats=4
+	registrationNo='OTS4365'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5019
+	rideType='UberXL'
+	noOfSeats=7
+	registrationNo='UTP4982'
+
+----------------------------------------------
+Command Add_Ride: Add a new ride record in the System
+Ride Details are as follows:
+
+	rideID=5020
+	rideType='Pool'
+	noOfSeats=4
+	registrationNo='TRA9491'
+
+----------------------------------------------
+Command Add_RiderBonus: Add a new riderBonus record in the System
+
+	bonusId=901
+	bonusDesc='Newly_Joined'
+	bonusCredit=17.0
+
+----------------------------------------------
+Command Add_RiderBonus: Add a new riderBonus record in the System
+
+	bonusId=902
+	bonusDesc='Referral'
+	bonusCredit=25.0
+
+----------------------------------------------
+Command Add_RiderBonus: Add a new riderBonus record in the System
+
+	bonusId=903
+	bonusDesc='Random'
+	bonusCredit=15.0
+
+----------------------------------------------
+Command Add_RiderBonus: Add a new riderBonus record in the System
+
+	bonusId=904
+	bonusDesc='100_Ride_Achevement'
+	bonusCredit=125.0
+
+----------------------------------------------
+Command Add_RiderBonus: Add a new riderBonus record in the System
+
+	bonusId=905
+	bonusDesc='Weekly_Promotion'
+	bonusCredit=36.0
+
+----------------------------------------------
+Command Add_RiderBonus: Add a new riderBonus record in the System
+
+	bonusId=906
+	bonusDesc='Monthly_Promotion'
+	bonusCredit=2.0
+
+----------------------------------------------
+Command Add_RiderBonus: Add a new riderBonus record in the System
+
+	bonusId=907
+	bonusDesc='Special_Promo1'
+	bonusCredit=1.5
+
+----------------------------------------------
+Command Add_RiderBonus: Add a new riderBonus record in the System
+
+	bonusId=908
+	bonusDesc='Special_Promo2'
+	bonusCredit=2.5
+
+----------------------------------------------
+Command Add_RiderBonus: Add a new riderBonus record in the System
+
+	bonusId=909
+	bonusDesc='Special_Promo3'
+	bonusCredit=1.5
+
+----------------------------------------------
+Command Add_RiderBonus: Add a new riderBonus record in the System
+
+	bonusId=910
+	bonusDesc='Special_Promo4'
+	bonusCredit=2.0
+
+----------------------------------------------
+Command Add_Payment: Add a new payments record in the System
+
+	paymentId=301
+	paymentDesc='Cash'
+	paymentAmount=10.5
+
+----------------------------------------------
+Command Add_Payment: Add a new payments record in the System
+
+	paymentId=302
+	paymentDesc='Cash'
+	paymentAmount=22.0
+
+----------------------------------------------
+Command Add_Payment: Add a new payments record in the System
+
+	paymentId=303
+	paymentDesc='Wallet'
+	paymentAmount=28.0
+
+----------------------------------------------
+Command Add_Payment: Add a new payments record in the System
+
+	paymentId=304
+	paymentDesc='Cash'
+	paymentAmount=36.0
+
+----------------------------------------------
+Command Add_Payment: Add a new payments record in the System
+
+	paymentId=305
+	paymentDesc='Cash'
+	paymentAmount=15.0
+
+----------------------------------------------
+Command Add_Payment: Add a new payments record in the System
+
+	paymentId=306
+	paymentDesc='Cash'
+	paymentAmount=8.0
+
+----------------------------------------------
+Command Add_Payment: Add a new payments record in the System
+
+	paymentId=307
+	paymentDesc='Cash'
+	paymentAmount=14.0
+
+----------------------------------------------
+Command Add_Payment: Add a new payments record in the System
+
+	paymentId=308
+	paymentDesc='Wallet'
+	paymentAmount=34.0
+
+----------------------------------------------
+Command Add_Payment: Add a new payments record in the System
+
+	paymentId=309
+	paymentDesc='Cash'
+	paymentAmount=18.0
+
+----------------------------------------------
+Command Add_Payment: Add a new payments record in the System
+
+	paymentId=310
+	paymentDesc='Cash'
+	paymentAmount=26.0
+
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22001
+	Name=Ismail_AlSabani
+	Email=ismail@yahoo.com
+	Date of Birth=Tue Mar 02 00:00:00 CET 3875
+	Gender=M
+	Phone=534354554
+	Address=Madina
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Faisaliya
+
+	DropTo='Kandara'
+
+	Distance=14.0
+
+	Rating=4.2
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22002
+	Name=Mohamed_Ali_AlBishi
+	Email=m12@gmail.com
+	Date of Birth=Sat Oct 28 00:00:00 CEST 3876
+	Gender=M
+	Phone=505484543
+	Address=Riyadh
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Azizyah
+
+	DropTo='Balad'
+
+	Distance=8.2
+
+	Rating=4.8
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22003
+	Name=Mohammed_AlSalhi
+	Email=m.ali@gmail.com
+	Date of Birth=Tue Apr 13 00:00:00 CEST 3875
+	Gender=M
+	Phone=567854544
+	Address=Jeddah
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Cornesh
+
+	DropTo='Rehab'
+
+	Distance=22.5
+
+	Rating=4.5
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22004
+	Name=Youssef_AlMasrahi
+	Email=yous43@gmail.com
+	Date of Birth=Mon Dec 12 00:00:00 CET 3881
+	Gender=M
+	Phone=525477415
+	Address=Riyadh
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Airport
+
+	DropTo='Jamia'
+
+	Distance=14.6
+
+	Rating=4.3
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22005
+	Name=Fatima_AlYassin
+	Email=fat93@yahoo.com
+	Date of Birth=Sat Aug 15 00:00:00 CEST 3868
+	Gender=F
+	Phone=547871054
+	Address=Jeddah
+------------------------------------
+
+	WalletBalance=12.0
+
+	PickupForm='Rehab
+
+	DropTo='AlSafa'
+
+	Distance=5.4
+
+	Rating=4.0
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22006
+	Name=Mohamed_Obaid_AlSahli
+	Email=mohamed.Obaid@yahoo.com
+	Date of Birth=Fri Jan 11 00:00:00 CET 3884
+	Gender=M
+	Phone=500587414
+	Address=Riyadh
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Fayha
+
+	DropTo='Jamia'
+
+	Distance=3.4
+
+	Rating=4.5
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22007
+	Name=Abdullah_Abkar_AlMouled
+	Email=abd434@gmail.com
+	Date of Birth=Sun May 17 00:00:00 CEST 3868
+	Gender=M
+	Phone=538700454
+	Address=Dammam
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Kandara
+
+	DropTo='AlSafa'
+
+	Distance=9.0
+
+	Rating=4.6
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22008
+	Name=Hiba_AlMasrahi
+	Email=nm.asrahi@gmail.com
+	Date of Birth=Sun Aug 13 00:00:00 CEST 3865
+	Gender=F
+	Phone=537874123
+	Address=Madina
+------------------------------------
+
+	WalletBalance=3.41
+
+	PickupForm='Balad
+
+	DropTo='Fayha'
+
+	Distance=5.7
+
+	Rating=3.8
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22009
+	Name=Ibrahim_AlHamaidi
+	Email=ibrahim@yahoo.com
+	Date of Birth=Fri May 05 00:00:00 CEST 3882
+	Gender=M
+	Phone=507803485
+	Address=Riyadh
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Rehab
+
+	DropTo='AlSafa'
+
+	Distance=10.6
+
+	Rating=3.6
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22010
+	Name=Hadi_Souaan_AlSomaily
+	Email=ya.fj23@gmail.com
+	Date of Birth=Mon Mar 15 00:00:00 CET 3880
+	Gender=M
+	Phone=508793215
+	Address=Jeddah
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Jamia
+
+	DropTo='Sharafiya'
+
+	Distance=8.6
+
+	Rating=4.5
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22011
+	Name=Hamed_Hamadan_AlBishi
+	Email=jgh3@gmail.com
+	Date of Birth=Thu May 28 00:00:00 CEST 3868
+	Gender=M
+	Phone=534528754
+	Address=Makkah
+------------------------------------
+
+	WalletBalance=105.6
+
+	PickupForm='Rehab
+
+	DropTo='Airport'
+
+	Distance=17.5
+
+	Rating=4.1
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22012
+	Name=Hamdan_Odha_AlBishi
+	Email=odha.AlBishi@yahoo.com
+	Date of Birth=Wed Nov 12 00:00:00 CET 3873
+	Gender=M
+	Phone=505487196
+	Address=Jeddah
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Jamia
+
+	DropTo='Azizyah'
+
+	Distance=21.0
+
+	Rating=4.6
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22013
+	Name=Hamdan_Odha_AlBishi
+	Email=alam.bri@gmail.com
+	Date of Birth=Tue May 07 00:00:00 CEST 3878
+	Gender=M
+	Phone=567894874
+	Address=Jeddah
+------------------------------------
+
+	WalletBalance=14.8
+
+	PickupForm='Kandara
+
+	DropTo='Cornesh'
+
+	Distance=12.5
+
+	Rating=4.4
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22014
+	Name=Moukhled_AlOutaibi
+	Email=moukhled1@gmail.com
+	Date of Birth=Mon Aug 21 00:00:00 CEST 3882
+	Gender=M
+	Phone=525477415
+	Address=Makkah
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Fayha
+
+	DropTo='Airport'
+
+	Distance=10.5
+
+	Rating=4.7
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22015
+	Name=Abdullah_Abdulaziz_AlJoud
+	Email=abd.abdulaziz@yahoo.com
+	Date of Birth=Tue Apr 24 00:00:00 CEST 3877
+	Gender=M
+	Phone=547871054
+	Address=Jeddah
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='AlSafa
+
+	DropTo='Azizyah'
+
+	Distance=17.5
+
+	Rating=4.3
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22016
+	Name=Hussein_AlYami
+	Email=j.alyami@gmail.com
+	Date of Birth=Sat Oct 28 00:00:00 CEST 3876
+	Gender=M
+	Phone=500587414
+	Address=Riyadh
+------------------------------------
+
+	WalletBalance=15.0
+
+	PickupForm='Sharafiya
+
+	DropTo='Cornesh'
+
+	Distance=4.5
+
+	Rating=4.1
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22017
+	Name=Maya_Jamaan_AlHamdah
+	Email=maya23@yahoo.com
+	Date of Birth=Thu Mar 18 00:00:00 CET 3875
+	Gender=F
+	Phone=538700676
+	Address=Jeddah
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Airport
+
+	DropTo='Balad'
+
+	Distance=28.5
+
+	Rating=3.9
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22018
+	Name=Alyan_Sultan_Al_Qahtani
+	Email=alyan_Sultan@gmail.com
+	Date of Birth=Sun Jan 15 00:00:00 CET 3882
+	Gender=M
+	Phone=537874123
+	Address=Dammam
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Azizyah
+
+	DropTo='Rehab'
+
+	Distance=5.3
+
+	Rating=3.7
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22019
+	Name=Tariq_Ahmed_AlAmri
+	Email=tariqahmed@yahoo.com
+	Date of Birth=Thu Sep 17 00:00:00 CEST 3868
+	Gender=M
+	Phone=547803485
+	Address=Madina
+------------------------------------
+
+	WalletBalance=38.0
+
+	PickupForm='Cornesh
+
+	DropTo='Azizyah'
+
+	Distance=7.5
+
+	Rating=4.5
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22020
+	Name=Nada_AlSabani
+	Email=nada_a@gmail.com
+	Date of Birth=Sun Jul 30 00:00:00 CEST 3865
+	Gender=F
+	Phone=508793352
+	Address=Jeddah
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Airport
+
+	DropTo='Cornesh'
+
+	Distance=32.5
+
+	Rating=4.0
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22021
+	Name=Mohammed_AlSalhi
+	Email=m.AlSalhi@yahoo.com
+	Date of Birth=Sat May 08 00:00:00 CEST 3880
+	Gender=M
+	Phone=534528754
+	Address=Makkah
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Rehab
+
+	DropTo='Airport'
+
+	Distance=22.6
+
+	Rating=4.7
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22022
+	Name=Hamed_Hamadan_AlBishi
+	Email=hamed@gmail.com
+	Date of Birth=Sun Apr 14 00:00:00 CEST 3872
+	Gender=M
+	Phone=505487196
+	Address=Riyadh
+------------------------------------
+
+	WalletBalance=3.0
+
+	PickupForm='Azizyah
+
+	DropTo='Jamia'
+
+	Distance=10.8
+
+	Rating=4.6
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22023
+	Name=Hamed_Hamadan_AlBishi
+	Email=hamed322@yahoo.com
+	Date of Birth=Sun Nov 25 00:00:00 CET 3877
+	Gender=M
+	Phone=567894454
+	Address=Jeddah
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Cornesh
+
+	DropTo='Rehab'
+
+	Distance=13.8
+
+	Rating=4.3
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22024
+	Name=Hani_Souan_AlSomaily
+	Email=han_Sou@gmail.com
+	Date of Birth=Thu Mar 18 00:00:00 CET 3875
+	Gender=M
+	Phone=525477415
+	Address=Jeddah
+------------------------------------
+
+	WalletBalance=54.5
+
+	PickupForm='Airport
+
+	DropTo='Jamia'
+
+	Distance=28.8
+
+	Rating=4.4
+----------------------------------------------
+Command Add_Rider: Add a new riders record in the System
+
+	ID=22025
+	Name=Hamnah_AlSalhi
+	Email=alSalhi@yahoo.com
+	Date of Birth=Thu Aug 19 00:00:00 CEST 3875
+	Gender=F
+	Phone=547871054
+	Address=Makkah
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Jamia
+
+	DropTo='Kandara'
+
+	Distance=8.2
+
+	Rating=4.0
+----------------------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Ismail_AlSabani
+	Assigned to Captain Rida_Ahmad_Zahrani
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Mohamed_Ali_AlBishi
+	Assigned to Captain Zahid_Ali
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Mohammed_AlSalhi
+	Assigned to Captain Shahid_Aman
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Youssef_AlMasrahi
+	Assigned to Captain John_Zukie
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Fatima_AlYassin
+	Assigned to Captain Yasser_Ali
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Mohamed_Obaid_AlSahli
+	Assigned to Captain Ahmed_Qahtani
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Abdullah_Abkar_AlMouled
+	Assigned to Captain Zahoor_Rashid
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Hiba_AlMasrahi
+	Assigned to Captain Amna_Ayman
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Ibrahim_AlHamaidi
+	Assigned to Captain Nassr_Alqahtani
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Hadi_Souaan_AlSomaily
+	Assigned to Captain Maryam_Alzahrani
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Hamed_Hamadan_AlBishi
+	Assigned to Captain Rida_Ahmad_Zahrani
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Hamdan_Odha_AlBishi
+	Assigned to Captain Zahid_Ali
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Hamdan_Odha_AlBishi
+	Assigned to Captain Shahid_Aman
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Moukhled_AlOutaibi
+	Assigned to Captain John_Zukie
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Abdullah_Abdulaziz_AlJoud
+	Assigned to Captain Yasser_Ali
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Hussein_AlYami
+	Assigned to Captain Ahmed_Qahtani
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Maya_Jamaan_AlHamdah
+	Assigned to Captain Zahoor_Rashid
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Alyan_Sultan_Al_Qahtani
+	Assigned to Captain Amna_Ayman
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Tariq_Ahmed_AlAmri
+	Assigned to Captain Nassr_Alqahtani
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Nada_AlSabani
+	Assigned to Captain Maryam_Alzahrani
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Mohammed_AlSalhi
+	Assigned to Captain Zahid_Ali
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Hamed_Hamadan_AlBishi
+	Assigned to Captain Yasser_Ali
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Hamed_Hamadan_AlBishi
+	Assigned to Captain Zahoor_Rashid
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Hani_Souan_AlSomaily
+	Assigned to Captain Nassr_Alqahtani
+-----------------------------------
+Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
+	Rider: Hamnah_AlSalhi
+	Assigned to Captain Maryam_Alzahrani
+-----------------------------------

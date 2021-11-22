@@ -2,6 +2,8 @@ import java.util.Date;
 
 public class UberAdmin extends Employee {
 
+    private String department;
+
     public UberAdmin(
             String department,
             int empId,
@@ -16,20 +18,18 @@ public class UberAdmin extends Employee {
             String address
     ) {
         this.department = department;
-        this.empId = empId;
-        this.empDesc = empDesc;
-        this.onLeave = onLeave;
-        this.id = id;
-        this.name = name;
-        this.email = email;
-        this.dateOfBirth = dateOfBirth;
-        this.gender = gender;
-        this.phone = phone;
-        this.address = address;
+        this.setEmpId(empId);
+        this.setEmpDesc(empDesc);
+        this.setOnLeave(onLeave);
+        this.setId(id);
+        this.setName(name);
+        this.setEmail(email);
+        this.setDateOfBirth(dateOfBirth);
+        this.setGender(gender);
+        this.setPhone(phone);
+        this.setAddress(address);
 
     }
-
-    String department;
 
     public String getDepartment() {
         return department;
@@ -41,8 +41,17 @@ public class UberAdmin extends Employee {
 
     @Override
     public String toString() {
-        return "UberAdmin{" +
-                "department='" + department + '\'' +
-                '}';
+        return
+                "\tID=" + getId() + "\n" +
+                        "\tName=" + getName() + "\n" +
+                        "\tEmail=" + getEmail() + "\n" +
+                        "\tDate of Birth=" + getDateOfBirth() + "\n" +
+                        "\tGender=" + getGender() + "\n" +
+                        "\tPhone=" + getPhone() + "\n" +
+                        "\tAddress=" + getAddress() + "\n" +
+                        "\tEmployee ID=" + getEmpId() + "\n" +
+                        "\tEmployee Description=" + getEmpDesc() + "\n" +
+                        "\tOn Leave=" + getOnLeave() + "\n" +
+                        "\tDepartment=" + getDepartment() + "\n ";
     }
 }

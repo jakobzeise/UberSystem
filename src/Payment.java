@@ -1,10 +1,10 @@
 public class Payment {
 
-    int paymentId;
-    String paymentDesc;
-    double paymentAmount;
+    private int paymentId;
+    private String paymentDesc;
+    private double paymentAmount;
 
-    Payment(int paymentId, String paymentDesc, double paymentAmount){
+    Payment(int paymentId, String paymentDesc, double paymentAmount) {
         this.paymentId = paymentId;
         this.paymentDesc = paymentDesc;
         this.paymentAmount = paymentAmount;
@@ -36,10 +36,9 @@ public class Payment {
 
     @Override
     public String toString() {
-        return "Payment{" +
-                "paymentId=" + paymentId +
-                ", paymentDesc='" + paymentDesc + '\'' +
-                ", paymentAmount=" + paymentAmount +
-                '}';
+        return
+                "\tpaymentId=" + getPaymentId() + "\n" +
+                "\tpaymentDesc='" + getPaymentDesc() + '\'' + "\n" +
+                "\tpaymentAmount=" + getPaymentAmount() + "\n";
     }
 }

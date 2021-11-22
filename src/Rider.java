@@ -1,25 +1,24 @@
 import java.util.Date;
 
-public class Rider extends Account{
+public class Rider extends Account {
 
-    double walletBalance;
-    String pickupForm;
-    String dropTo;
-    double distance;
-    Captain captain;
-    UberAdmin uberAdmin;
-    Payment payment;
+    private double walletBalance;
+    private String pickupForm;
+    private String dropTo;
+    private double distance;
+    private Captain captain;
+    private UberAdmin uberAdmin;
+    private Payment payment;
+    private RiderBonus riderBonus;
+    private Ride ride;
+    private Date joinDate;
+    private double rating;
 
     //Constructor of the Rider class
     public Rider(double walletBalance,
                  String pickupForm,
                  String dropTo,
                  double distance,
-                 Captain captain,
-                 UberAdmin uberAdmin,
-                 Payment payment,
-                 RiderBonus riderBonus,
-                 Ride ride,
                  Date joinDate,
                  double rating,
                  int id,
@@ -34,33 +33,26 @@ public class Rider extends Account{
         this.pickupForm = pickupForm;
         this.dropTo = dropTo;
         this.distance = distance;
-        this.captain = captain;
-        this.uberAdmin = uberAdmin;
-        this.payment = payment;
-        this.riderBonus = riderBonus;
-        this.ride = ride;
         this.joinDate = joinDate;
         this.rating = rating;
-        this.id = id;
-        this.name = name;
-        this.email = email;
-        this.dateOfBirth = dateOfBirth;
-        this.gender = gender;
-        this.phone = phone;
-        this.address = address;
+        this.setId(id);
+        this.setName(name);
+        this.setEmail(email);
+        this.setDateOfBirth(dateOfBirth);
+        this.setGender(gender);
+        this.setPhone(phone);
+        this.setAddress(address);
+
     }
 
-    RiderBonus riderBonus;
-    Ride ride;
-    Date joinDate;
-    double rating;
 
-    int getTotalBonus(){
+
+    int getTotalBonus() {
         // TODO: 21.11.21 get Total Bonus
         return 0;
     }
 
-    int getTotalPayment(){
+    int getTotalPayment() {
         // TODO: 21.11.21 get Total Payment
         return 0;
     }
@@ -160,31 +152,32 @@ public class Rider extends Account{
     public void setRating(double rating) {
         this.rating = rating;
     }
-    
-    public double calNetPayment(){
+
+    public double calNetPayment() {
         // TODO: 21.11.21 calculate the net Payment
         return 0;
     }
 
-    public String printRiderBasicInfo(){
+    public String printRiderBasicInfo() {
         // TODO: 21.11.21 printRiderBasicInfo
         return "";
     }
 
     @Override
     public String toString() {
-        return "Rider{" +
-                "walletBalance=" + walletBalance +
-                ", pickupForm='" + pickupForm + '\'' +
-                ", dropTo='" + dropTo + '\'' +
-                ", distance=" + distance +
-                ", captain=" + captain +
-                ", uberAdmin=" + uberAdmin +
-                ", payment=" + payment +
-                ", riderBonus=" + riderBonus +
-                ", ride=" + ride +
-                ", joinDate=" + joinDate +
-                ", rating=" + rating +
-                '}';
+        return
+                "\tID=" + getId() + "\n" +
+                        "\tName=" + getName() + "\n" +
+                        "\tEmail=" + getEmail() + "\n" +
+                        "\tDate of Birth=" + getDateOfBirth() + "\n" +
+                        "\tGender=" + getGender() + "\n" +
+                        "\tPhone=" + getPhone() + "\n" +
+                        "\tAddress=" + getAddress() + "\n" +
+                        "------------------------------------" + "\n" + "\n" +
+                        "\tWalletBalance=" + getWalletBalance() + "\n" + "\n" +
+                        "\tPickupForm='" + getPickupForm() + "\n" + "\n" +
+                        "\tDropTo='" + getDropTo() + '\'' + "\n" + "\n" +
+                        "\tDistance=" + getDistance() + "\n" + "\n" +
+                        "\tRating=" + getRating();
     }
 }

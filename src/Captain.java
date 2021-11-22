@@ -1,10 +1,10 @@
 import java.util.Date;
 
-public class Captain extends Employee{
+public class Captain extends Employee {
 
-    int drivingLicenseNo;
-    int totalRides;
-    double rating;
+    private int drivingLicenseNo;
+    private int totalRides;
+    private double rating;
 
     public Captain(
             int drivingLicenseNo,
@@ -24,16 +24,23 @@ public class Captain extends Employee{
         this.drivingLicenseNo = drivingLicenseNo;
         this.totalRides = totalRides;
         this.rating = rating;
-        this.empId = empId;
-        this.empDesc = empDesc;
-        this.onLeave = onLeave;
-        this.id = id;
-        this.name = name;
-        this.email = email;
-        this.dateOfBirth = dateOfBirth;
-        this.gender = gender;
-        this.phone = phone;
-        this.address = address;
+        this.setEmpId(empId);
+        this.setEmpDesc(empDesc);
+        this.setOnLeave(onLeave);
+        this.setId(id);
+        this.setName(name);
+        this.setEmail(email);
+        this.setDateOfBirth(dateOfBirth);
+        this.setGender(gender);
+        this.setPhone(phone);
+        this.setAddress(address);
+        addCaptainToRiderWrite();
+
+
+    }
+
+    public void addCaptainToRiderWrite() {
+
     }
 
     public int getDrivingLicenseNo() {
@@ -62,10 +69,20 @@ public class Captain extends Employee{
 
     @Override
     public String toString() {
-        return "Captain{" +
-                "drivingLicenseNo=" + drivingLicenseNo +
-                ", totalRides=" + totalRides +
-                ", rating=" + rating +
-                '}';
+        return
+                "\tID=" + getId() + "\n" +
+                        "\tName=" + getName() + "\n" +
+                        "\tEmail=" + getEmail() + "\n" +
+                        "\tDate of Birth=" + getDateOfBirth() + "\n" +
+                        "\tGender=" + getGender() + "\n" +
+                        "\tPhone=" + getPhone() + "\n" +
+                        "\tAddress=" + getAddress() + "\n" +
+                        "\tEmployee ID=" + getEmpId() + "\n" +
+                        "\tEmployee Description=" + getEmpDesc() + "\n" +
+                        "\tOn Leave=" + getOnLeave() + "\n" +
+                        "\tDriving LicenseNo=" + getDrivingLicenseNo() + "\n" +
+                        "\tTotal Rides=" + getTotalRides() + "\n" +
+                        "\tRating=" + getRating() + "\n ";
     }
 }
+

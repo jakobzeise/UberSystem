@@ -1,8 +1,8 @@
-public class Employee extends Account{
+public class Employee extends Account {
 
-    int empId;
-    String empDesc;
-    Boolean onLeave;
+    private int empId;
+    private String empDesc;
+    private Boolean onLeave;
 
     public int getEmpId() {
         return empId;

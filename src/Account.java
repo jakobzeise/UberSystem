@@ -1,13 +1,13 @@
 import java.util.Date;
 
 public class Account {
-    int id;
-    String name;
-    String email;
-    Date dateOfBirth;
-    char gender;
-    int phone;
-    String address;
+    private int id;
+    private String name;
+    private String email;
+    private Date dateOfBirth;
+    private char gender;
+    private int phone;
+    private String address;
 
     public int getId() {
         return id;

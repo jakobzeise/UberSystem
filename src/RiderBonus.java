@@ -1,7 +1,7 @@
 public class RiderBonus {
-    int bonusId;
-    String bonusDesc;
-    double bonusCredit;
+    private int bonusId;
+    private String bonusDesc;
+    private double bonusCredit;
 
     public RiderBonus(int bonusId, String bonusDesc, double bonusCredit) {
         this.bonusId = bonusId;
@@ -35,10 +35,9 @@ public class RiderBonus {
 
     @Override
     public String toString() {
-        return "RiderBonus{" +
-                "bonusId=" + bonusId +
-                ", bonusDesc='" + bonusDesc + '\'' +
-                ", bonusCredit=" + bonusCredit +
-                '}';
+        return
+                "\tbonusId=" + getBonusId() + "\n" +
+                "\tbonusDesc='" + getBonusDesc() + '\'' + "\n" +
+                "\tbonusCredit=" + getBonusCredit() + "\n";
     }
 }
