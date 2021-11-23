@@ -1,4 +1,6 @@
-import java.util.Date;
+import java.io.FileNotFoundException;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 public class Rider extends Account {
 
@@ -8,11 +10,13 @@ public class Rider extends Account {
     private double distance;
     private Captain captain;
     private UberAdmin uberAdmin;
-    private Payment payment;
-    private RiderBonus riderBonus;
+    private ArrayList<Payment> payment;
+    private ArrayList<RiderBonus> riderBonus;
+    //TODO get the Arrays Right
     private Ride ride;
     private Date joinDate;
     private double rating;
+
 
     //Constructor of the Rider class
     public Rider(double walletBalance,
@@ -44,7 +48,6 @@ public class Rider extends Account {
         this.setAddress(address);
 
     }
-
 
 
     int getTotalBonus() {
@@ -85,8 +88,8 @@ public class Rider extends Account {
         return payment;
     }
 
-    public RiderBonus getRiderBonus() {
-        return riderBonus;
+    public RiderBonus getRiderBonus(int index) {
+        return riderBonus.get(index);
     }
 
     public Ride getRide() {
@@ -125,20 +128,20 @@ public class Rider extends Account {
         this.uberAdmin = uberAdmin;
     }
 
-    public void setPayment(Payment payment) {
+    public void setPayment(ArrayList<Payment> payment) {
         this.payment = payment;
     }
 
     public void setPayment(Payment payment, int index) {
-        this.payment = payment;
+        this.payment.add(index, payment);
     }
 
-    public void setRiderBonus(RiderBonus riderBonus) {
+    public void setRiderBonus(ArrayList<RiderBonus> riderBonus) {
         this.riderBonus = riderBonus;
     }
 
     public void setRiderBonus(RiderBonus riderBonus, int index) {
-        this.riderBonus = riderBonus;
+        this.riderBonus.add(index, riderBonus);
     }
 
     public void setRide(Ride ride) {
@@ -163,6 +166,44 @@ public class Rider extends Account {
         return "";
     }
 
+    Formatter formatter;
+
+    public void printReport(){
+        try {
+             formatter = new Formatter("RiderReports/" + getId() +
+                    getName().charAt(0) + getName().charAt(1) + getName().charAt(2) +
+                    "_Rider_Report" + ".txt");
+
+            String timeStamp = new SimpleDateFormat("yyyy MMM dd HH:mm:ss.SSS zzz").format(Calendar.getInstance().getTime());
+
+            formatter.format("%s", "------------------ Welcome to Uber ------------------\n\n" +
+                    "--------- Current Date :  " + timeStamp + "--------\n\n" +
+                    "Command Assign_Payment_Rider:\n" +
+                    "Successfully Processed by the System, Following are the details:\n\n" +
+                    "--- Rider Detail are as Follows: ---\n\n" +
+                    this + "\n\n" +
+                    "------------------------------------\n\n" +
+                    "--- Captain Detail are as Follows: ---\n\n" +
+                    getCaptain()+ "\n\n" +
+                    "------------------------------------\n\n" +
+                    "--- UberAdmin Detail are as Follows: ---\n\n" +
+                    getUberAdmin()+ "\n\n" +
+                    "------------------------------------\n\n"
+
+
+
+                    //TODO Finish the Report for the Riders
+
+
+            );
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+
+
+        formatter.close();
+    }
+
     @Override
     public String toString() {
         return
@@ -172,7 +213,7 @@ public class Rider extends Account {
                         "\tDate of Birth=" + getDateOfBirth() + "\n" +
                         "\tGender=" + getGender() + "\n" +
                         "\tPhone=" + getPhone() + "\n" +
-                        "\tAddress=" + getAddress() + "\n" +
+                        "\tAddress=" + getAddress() + "\n\n" +
                         "------------------------------------" + "\n" + "\n" +
                         "\tWalletBalance=" + getWalletBalance() + "\n" + "\n" +
                         "\tPickupForm='" + getPickupForm() + "\n" + "\n" +

@@ -1,0 +1,67 @@
+------------------ Welcome to Uber ------------------
+
+--------- Current Date :  2021 Nov 24 00:00:14.891 CET--------
+
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+--- Rider Detail are as Follows: ---
+
+	ID=22007
+	Name=Abdullah_Abkar_AlMouled
+	Email=abd434@gmail.com
+	Date of Birth=Sun May 17 00:00:00 CEST 3868
+	Gender=M
+	Phone=538700454
+	Address=Dammam
+
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Kandara
+
+	DropTo='AlSafa'
+
+	Distance=9.0
+
+	Rating=4.6
+
+------------------------------------
+
+--- Captain Detail are as Follows: ---
+
+	ID=507
+	Name=Zahoor_Rashid
+	Email=zahoor12@hotmail.com
+	Date of Birth=Tue Mar 15 00:00:00 CET 3881
+	Gender=M
+	Phone=538700365
+	Address=Rehab
+	Employee ID=3984
+	Employee Description=Part_time
+	On Leave=true
+	Driving LicenseNo=17785464
+	Total Rides=287
+	Rating=4.5
+ 
+
+------------------------------------
+
+--- UberAdmin Detail are as Follows: ---
+
+	ID=802
+	Name=Alaa_Turki
+	Email=alaa@uber.com
+	Date of Birth=Mon Feb 14 00:00:00 CET 3881
+	Gender=M
+	Phone=505856612
+	Address=Jamia
+	Employee ID=1008
+	Employee Description=Assistant_Supervisor
+	On Leave=false
+	Department=OperationX
+ 
+
+------------------------------------
+

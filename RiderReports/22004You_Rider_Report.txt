@@ -1,0 +1,67 @@
+------------------ Welcome to Uber ------------------
+
+--------- Current Date :  2021 Nov 24 00:00:14.890 CET--------
+
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+--- Rider Detail are as Follows: ---
+
+	ID=22004
+	Name=Youssef_AlMasrahi
+	Email=yous43@gmail.com
+	Date of Birth=Mon Dec 12 00:00:00 CET 3881
+	Gender=M
+	Phone=525477415
+	Address=Riyadh
+
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Airport
+
+	DropTo='Jamia'
+
+	Distance=14.6
+
+	Rating=4.3
+
+------------------------------------
+
+--- Captain Detail are as Follows: ---
+
+	ID=504
+	Name=John_Zukie
+	Email=john.zu@mail.com
+	Date of Birth=Tue Apr 24 00:00:00 CEST 3877
+	Gender=M
+	Phone=525477415
+	Address=Balad
+	Employee ID=3158
+	Employee Description=Part_time
+	On Leave=false
+	Driving LicenseNo=74563215
+	Total Rides=241
+	Rating=3.84
+ 
+
+------------------------------------
+
+--- UberAdmin Detail are as Follows: ---
+
+	ID=804
+	Name=Liaqat_Jalal
+	Email=liaqat@uber.com
+	Date of Birth=Sun Nov 25 00:00:00 CET 3888
+	Gender=M
+	Phone=547674174
+	Address=Balad
+	Employee ID=1086
+	Employee Description=Manager
+	On Leave=false
+	Department=OperationPOOL
+ 
+
+------------------------------------
+

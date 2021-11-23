@@ -1,0 +1,67 @@
+------------------ Welcome to Uber ------------------
+
+--------- Current Date :  2021 Nov 24 00:00:14.890 CET--------
+
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+--- Rider Detail are as Follows: ---
+
+	ID=22003
+	Name=Mohammed_AlSalhi
+	Email=m.ali@gmail.com
+	Date of Birth=Tue Apr 13 00:00:00 CEST 3875
+	Gender=M
+	Phone=567854544
+	Address=Jeddah
+
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Cornesh
+
+	DropTo='Rehab'
+
+	Distance=22.5
+
+	Rating=4.5
+
+------------------------------------
+
+--- Captain Detail are as Follows: ---
+
+	ID=503
+	Name=Shahid_Aman
+	Email=shah234@yahoo.com
+	Date of Birth=Mon Aug 21 00:00:00 CEST 3882
+	Gender=M
+	Phone=567894874
+	Address=Kandara
+	Employee ID=3985
+	Employee Description=Full_time
+	On Leave=false
+	Driving LicenseNo=32845621
+	Total Rides=504
+	Rating=4.1
+ 
+
+------------------------------------
+
+--- UberAdmin Detail are as Follows: ---
+
+	ID=803
+	Name=Maqbol_Alqahtani
+	Email=maqbol@uber.com
+	Date of Birth=Wed Sep 22 00:00:00 CEST 3869
+	Gender=M
+	Phone=523003344
+	Address=Kandara
+	Employee ID=1054
+	Employee Description=GPS_Specialist
+	On Leave=true
+	Department=OperationXL
+ 
+
+------------------------------------
+

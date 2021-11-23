@@ -1,0 +1,67 @@
+------------------ Welcome to Uber ------------------
+
+--------- Current Date :  2021 Nov 24 00:00:14.891 CET--------
+
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+--- Rider Detail are as Follows: ---
+
+	ID=22006
+	Name=Mohamed_Obaid_AlSahli
+	Email=mohamed.Obaid@yahoo.com
+	Date of Birth=Fri Jan 11 00:00:00 CET 3884
+	Gender=M
+	Phone=500587414
+	Address=Riyadh
+
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Fayha
+
+	DropTo='Jamia'
+
+	Distance=3.4
+
+	Rating=4.5
+
+------------------------------------
+
+--- Captain Detail are as Follows: ---
+
+	ID=506
+	Name=Ahmed_Qahtani
+	Email=ahmed.wqa@outlook.com
+	Date of Birth=Thu Mar 18 00:00:00 CET 3875
+	Gender=M
+	Phone=500587414
+	Address=Jamia
+	Employee ID=3252
+	Employee Description=Full_time
+	On Leave=false
+	Driving LicenseNo=12335484
+	Total Rides=354
+	Rating=3.74
+ 
+
+------------------------------------
+
+--- UberAdmin Detail are as Follows: ---
+
+	ID=801
+	Name=Mubarak_Alghamdi
+	Email=mubarak@uber.com
+	Date of Birth=Tue Jun 08 00:00:00 CEST 3897
+	Gender=M
+	Phone=547871054
+	Address=Rehab
+	Employee ID=1001
+	Employee Description=Supervisor
+	On Leave=false
+	Department=OperationXL
+ 
+
+------------------------------------
+

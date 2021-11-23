@@ -1,0 +1,67 @@
+------------------ Welcome to Uber ------------------
+
+--------- Current Date :  2021 Nov 24 00:00:14.893 CET--------
+
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+--- Rider Detail are as Follows: ---
+
+	ID=22010
+	Name=Hadi_Souaan_AlSomaily
+	Email=ya.fj23@gmail.com
+	Date of Birth=Mon Mar 15 00:00:00 CET 3880
+	Gender=M
+	Phone=508793215
+	Address=Jeddah
+
+------------------------------------
+
+	WalletBalance=0.0
+
+	PickupForm='Jamia
+
+	DropTo='Sharafiya'
+
+	Distance=8.6
+
+	Rating=4.5
+
+------------------------------------
+
+--- Captain Detail are as Follows: ---
+
+	ID=510
+	Name=Maryam_Alzahrani
+	Email=maryam@ymail.com
+	Date of Birth=Sat May 08 00:00:00 CEST 3880
+	Gender=F
+	Phone=508793215
+	Address=Fayha
+	Employee ID=3759
+	Employee Description=Full_time
+	On Leave=true
+	Driving LicenseNo=56467589
+	Total Rides=435
+	Rating=4.11
+ 
+
+------------------------------------
+
+--- UberAdmin Detail are as Follows: ---
+
+	ID=805
+	Name=Basher_Bandar
+	Email=basher@uber.com
+	Date of Birth=Fri May 28 00:00:00 CEST 3875
+	Gender=M
+	Phone=554803421
+	Address=Kandara
+	Employee ID=1021
+	Employee Description=Supervisor
+	On Leave=false
+	Department=OperationX
+ 
+
+------------------------------------
+

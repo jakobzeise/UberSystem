@@ -67,14 +67,13 @@ public class Account {
 
     @Override
     public String toString() {
-        return "Account{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", email='" + email + '\'' +
-                ", dateOfBirth=" + dateOfBirth +
-                ", gender=" + gender +
-                ", phone=" + phone +
-                ", address='" + address + '\'' +
-                '}';
+        return
+                "Id=" + id +
+                ", Name='" + name + '\'' +
+                ", Email='" + email + '\'' +
+                ", DateOfBirth=" + dateOfBirth +
+                ", Gender=" + gender +
+                ", Phone=" + phone +
+                ", Address='" + address + '\'';
     }
 }

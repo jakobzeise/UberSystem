@@ -30,11 +30,10 @@ public class Employee extends Account {
 
     @Override
     public String toString() {
-        return "Employee{" +
-                "empId=" + empId +
-                ", empDesc='" + empDesc + '\'' +
-                ", onLeave=" + onLeave +
-                '}';
+        return
+                "EmpId=" + empId +
+                "EmpDesc='" + empDesc + '\'' +
+                "OnLeave=" + onLeave ;
     }
 
 }

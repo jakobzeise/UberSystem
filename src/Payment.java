@@ -37,8 +37,8 @@ public class Payment {
     @Override
     public String toString() {
         return
-                "\tpaymentId=" + getPaymentId() + "\n" +
-                "\tpaymentDesc='" + getPaymentDesc() + '\'' + "\n" +
-                "\tpaymentAmount=" + getPaymentAmount() + "\n";
+                "\tPaymentId=" + getPaymentId() + "\n" +
+                "\tPaymentDesc='" + getPaymentDesc() + '\'' + "\n" +
+                "\tPaymentAmount=" + getPaymentAmount() + "\n";
     }
 }

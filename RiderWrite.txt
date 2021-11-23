@@ -1,6 +1,7 @@
 ------------------ Welcome to Uber ------------------
 
-Command Add_Captain: Add a new captain record in the System
+Command Add_Captain
+Successfully Processed by the System, Following are the details:
 
 	ID=501
 	Name=Rida_Ahmad_Zahrani
@@ -17,7 +18,8 @@ Command Add_Captain: Add a new captain record in the System
 	Rating=4.2
  
 ----------------------------------------------
-Command Add_Captain: Add a new captain record in the System
+Command Add_Captain
+Successfully Processed by the System, Following are the details:
 
 	ID=502
 	Name=Zahid_Ali
@@ -34,7 +36,8 @@ Command Add_Captain: Add a new captain record in the System
 	Rating=4.25
  
 ----------------------------------------------
-Command Add_Captain: Add a new captain record in the System
+Command Add_Captain
+Successfully Processed by the System, Following are the details:
 
 	ID=503
 	Name=Shahid_Aman
@@ -51,7 +54,8 @@ Command Add_Captain: Add a new captain record in the System
 	Rating=4.1
  
 ----------------------------------------------
-Command Add_Captain: Add a new captain record in the System
+Command Add_Captain
+Successfully Processed by the System, Following are the details:
 
 	ID=504
 	Name=John_Zukie
@@ -68,7 +72,8 @@ Command Add_Captain: Add a new captain record in the System
 	Rating=3.84
  
 ----------------------------------------------
-Command Add_Captain: Add a new captain record in the System
+Command Add_Captain
+Successfully Processed by the System, Following are the details:
 
 	ID=505
 	Name=Yasser_Ali
@@ -85,7 +90,8 @@ Command Add_Captain: Add a new captain record in the System
 	Rating=4.58
  
 ----------------------------------------------
-Command Add_Captain: Add a new captain record in the System
+Command Add_Captain
+Successfully Processed by the System, Following are the details:
 
 	ID=506
 	Name=Ahmed_Qahtani
@@ -102,7 +108,8 @@ Command Add_Captain: Add a new captain record in the System
 	Rating=3.74
  
 ----------------------------------------------
-Command Add_Captain: Add a new captain record in the System
+Command Add_Captain
+Successfully Processed by the System, Following are the details:
 
 	ID=507
 	Name=Zahoor_Rashid
@@ -119,7 +126,8 @@ Command Add_Captain: Add a new captain record in the System
 	Rating=4.5
  
 ----------------------------------------------
-Command Add_Captain: Add a new captain record in the System
+Command Add_Captain
+Successfully Processed by the System, Following are the details:
 
 	ID=508
 	Name=Amna_Ayman
@@ -136,7 +144,8 @@ Command Add_Captain: Add a new captain record in the System
 	Rating=3.8
  
 ----------------------------------------------
-Command Add_Captain: Add a new captain record in the System
+Command Add_Captain
+Successfully Processed by the System, Following are the details:
 
 	ID=509
 	Name=Nassr_Alqahtani
@@ -153,7 +162,8 @@ Command Add_Captain: Add a new captain record in the System
 	Rating=4.45
  
 ----------------------------------------------
-Command Add_Captain: Add a new captain record in the System
+Command Add_Captain
+Successfully Processed by the System, Following are the details:
 
 	ID=510
 	Name=Maryam_Alzahrani
@@ -170,7 +180,8 @@ Command Add_Captain: Add a new captain record in the System
 	Rating=4.11
  
 ----------------------------------------------
-Command Add_UberAdmin: Add a new uberAdmin record in the System
+Command Add_UberAdmin
+Successfully Processed by the System, Following are the details:
 
 	ID=801
 	Name=Mubarak_Alghamdi
@@ -185,7 +196,8 @@ Command Add_UberAdmin: Add a new uberAdmin record in the System
 	Department=OperationXL
  
 ----------------------------------------------
-Command Add_UberAdmin: Add a new uberAdmin record in the System
+Command Add_UberAdmin
+Successfully Processed by the System, Following are the details:
 
 	ID=802
 	Name=Alaa_Turki
@@ -200,7 +212,8 @@ Command Add_UberAdmin: Add a new uberAdmin record in the System
 	Department=OperationX
  
 ----------------------------------------------
-Command Add_UberAdmin: Add a new uberAdmin record in the System
+Command Add_UberAdmin
+Successfully Processed by the System, Following are the details:
 
 	ID=803
 	Name=Maqbol_Alqahtani
@@ -215,7 +228,8 @@ Command Add_UberAdmin: Add a new uberAdmin record in the System
 	Department=OperationXL
  
 ----------------------------------------------
-Command Add_UberAdmin: Add a new uberAdmin record in the System
+Command Add_UberAdmin
+Successfully Processed by the System, Following are the details:
 
 	ID=804
 	Name=Liaqat_Jalal
@@ -230,7 +244,8 @@ Command Add_UberAdmin: Add a new uberAdmin record in the System
 	Department=OperationPOOL
  
 ----------------------------------------------
-Command Add_UberAdmin: Add a new uberAdmin record in the System
+Command Add_UberAdmin
+Successfully Processed by the System, Following are the details:
 
 	ID=805
 	Name=Basher_Bandar
@@ -245,327 +260,348 @@ Command Add_UberAdmin: Add a new uberAdmin record in the System
 	Department=OperationX
  
 ----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	rideID=5001
-	rideType='UberX'
-	noOfSeats=4
-	registrationNo='LRA6452'
-
-----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
-
-	rideID=5002
-	rideType='UberXL'
-	noOfSeats=7
-	registrationNo='FNO1212'
+	RideID=5001
+	RideType='UberX'
+	NoOfSeats=4
+	RegistrationNo='LRA6452'
 
 ----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	rideID=5003
-	rideType='Pool'
-	noOfSeats=4
-	registrationNo='MEH8542'
-
-----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
-
-	rideID=5004
-	rideType='UberX'
-	noOfSeats=6
-	registrationNo='AKA434'
+	RideID=5002
+	RideType='UberXL'
+	NoOfSeats=7
+	RegistrationNo='FNO1212'
 
 ----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	rideID=5005
-	rideType='UberX'
-	noOfSeats=7
-	registrationNo='SMA9141'
-
-----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
-
-	rideID=5006
-	rideType='UberX'
-	noOfSeats=7
-	registrationNo='MAL2574'
+	RideID=5003
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='MEH8542'
 
 ----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	rideID=5007
-	rideType='Pool'
-	noOfSeats=4
-	registrationNo='RAS8731'
-
-----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
-
-	rideID=5008
-	rideType='UberXL'
-	noOfSeats=7
-	registrationNo='WBI9814'
+	RideID=5004
+	RideType='UberX'
+	NoOfSeats=6
+	RegistrationNo='AKA434'
 
 ----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	rideID=5009
-	rideType='Pool'
-	noOfSeats=4
-	registrationNo='UAI731'
-
-----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
-
-	rideID=5010
-	rideType='UberX'
-	noOfSeats=4
-	registrationNo='LAI7331'
+	RideID=5005
+	RideType='UberX'
+	NoOfSeats=7
+	RegistrationNo='SMA9141'
 
 ----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	rideID=5011
-	rideType='UberXL'
-	noOfSeats=4
-	registrationNo='CAK5231'
-
-----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
-
-	rideID=5012
-	rideType='Pool'
-	noOfSeats=4
-	registrationNo='FOA3231'
+	RideID=5006
+	RideType='UberX'
+	NoOfSeats=7
+	RegistrationNo='MAL2574'
 
 ----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	rideID=5013
-	rideType='UberXL'
-	noOfSeats=7
-	registrationNo='NOM587'
-
-----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
-
-	rideID=5014
-	rideType='UberX'
-	noOfSeats=4
-	registrationNo='LAK4512'
+	RideID=5007
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='RAS8731'
 
 ----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	rideID=5015
-	rideType='Pool'
-	noOfSeats=4
-	registrationNo='ADS8745'
-
-----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
-
-	rideID=5016
-	rideType='UberXL'
-	noOfSeats=6
-	registrationNo='ONR5824'
+	RideID=5008
+	RideType='UberXL'
+	NoOfSeats=7
+	RegistrationNo='WBI9814'
 
 ----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	rideID=5017
-	rideType='Pool'
-	noOfSeats=6
-	registrationNo='GBR4438'
-
-----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
-
-	rideID=5018
-	rideType='UberX'
-	noOfSeats=4
-	registrationNo='OTS4365'
+	RideID=5009
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='UAI731'
 
 ----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	rideID=5019
-	rideType='UberXL'
-	noOfSeats=7
-	registrationNo='UTP4982'
-
-----------------------------------------------
-Command Add_Ride: Add a new ride record in the System
-Ride Details are as follows:
-
-	rideID=5020
-	rideType='Pool'
-	noOfSeats=4
-	registrationNo='TRA9491'
+	RideID=5010
+	RideType='UberX'
+	NoOfSeats=4
+	RegistrationNo='LAI7331'
 
 ----------------------------------------------
-Command Add_RiderBonus: Add a new riderBonus record in the System
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	bonusId=901
-	bonusDesc='Newly_Joined'
-	bonusCredit=17.0
-
-----------------------------------------------
-Command Add_RiderBonus: Add a new riderBonus record in the System
-
-	bonusId=902
-	bonusDesc='Referral'
-	bonusCredit=25.0
+	RideID=5011
+	RideType='UberXL'
+	NoOfSeats=4
+	RegistrationNo='CAK5231'
 
 ----------------------------------------------
-Command Add_RiderBonus: Add a new riderBonus record in the System
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	bonusId=903
-	bonusDesc='Random'
-	bonusCredit=15.0
-
-----------------------------------------------
-Command Add_RiderBonus: Add a new riderBonus record in the System
-
-	bonusId=904
-	bonusDesc='100_Ride_Achevement'
-	bonusCredit=125.0
+	RideID=5012
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='FOA3231'
 
 ----------------------------------------------
-Command Add_RiderBonus: Add a new riderBonus record in the System
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	bonusId=905
-	bonusDesc='Weekly_Promotion'
-	bonusCredit=36.0
-
-----------------------------------------------
-Command Add_RiderBonus: Add a new riderBonus record in the System
-
-	bonusId=906
-	bonusDesc='Monthly_Promotion'
-	bonusCredit=2.0
+	RideID=5013
+	RideType='UberXL'
+	NoOfSeats=7
+	RegistrationNo='NOM587'
 
 ----------------------------------------------
-Command Add_RiderBonus: Add a new riderBonus record in the System
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	bonusId=907
-	bonusDesc='Special_Promo1'
-	bonusCredit=1.5
-
-----------------------------------------------
-Command Add_RiderBonus: Add a new riderBonus record in the System
-
-	bonusId=908
-	bonusDesc='Special_Promo2'
-	bonusCredit=2.5
+	RideID=5014
+	RideType='UberX'
+	NoOfSeats=4
+	RegistrationNo='LAK4512'
 
 ----------------------------------------------
-Command Add_RiderBonus: Add a new riderBonus record in the System
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	bonusId=909
-	bonusDesc='Special_Promo3'
-	bonusCredit=1.5
-
-----------------------------------------------
-Command Add_RiderBonus: Add a new riderBonus record in the System
-
-	bonusId=910
-	bonusDesc='Special_Promo4'
-	bonusCredit=2.0
+	RideID=5015
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='ADS8745'
 
 ----------------------------------------------
-Command Add_Payment: Add a new payments record in the System
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	paymentId=301
-	paymentDesc='Cash'
-	paymentAmount=10.5
-
-----------------------------------------------
-Command Add_Payment: Add a new payments record in the System
-
-	paymentId=302
-	paymentDesc='Cash'
-	paymentAmount=22.0
+	RideID=5016
+	RideType='UberXL'
+	NoOfSeats=6
+	RegistrationNo='ONR5824'
 
 ----------------------------------------------
-Command Add_Payment: Add a new payments record in the System
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	paymentId=303
-	paymentDesc='Wallet'
-	paymentAmount=28.0
-
-----------------------------------------------
-Command Add_Payment: Add a new payments record in the System
-
-	paymentId=304
-	paymentDesc='Cash'
-	paymentAmount=36.0
+	RideID=5017
+	RideType='Pool'
+	NoOfSeats=6
+	RegistrationNo='GBR4438'
 
 ----------------------------------------------
-Command Add_Payment: Add a new payments record in the System
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	paymentId=305
-	paymentDesc='Cash'
-	paymentAmount=15.0
-
-----------------------------------------------
-Command Add_Payment: Add a new payments record in the System
-
-	paymentId=306
-	paymentDesc='Cash'
-	paymentAmount=8.0
+	RideID=5018
+	RideType='UberX'
+	NoOfSeats=4
+	RegistrationNo='OTS4365'
 
 ----------------------------------------------
-Command Add_Payment: Add a new payments record in the System
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	paymentId=307
-	paymentDesc='Cash'
-	paymentAmount=14.0
-
-----------------------------------------------
-Command Add_Payment: Add a new payments record in the System
-
-	paymentId=308
-	paymentDesc='Wallet'
-	paymentAmount=34.0
+	RideID=5019
+	RideType='UberXL'
+	NoOfSeats=7
+	RegistrationNo='UTP4982'
 
 ----------------------------------------------
-Command Add_Payment: Add a new payments record in the System
+Command Add_Ride
+Successfully Processed by the System, Following are the details:
 
-	paymentId=309
-	paymentDesc='Cash'
-	paymentAmount=18.0
-
-----------------------------------------------
-Command Add_Payment: Add a new payments record in the System
-
-	paymentId=310
-	paymentDesc='Cash'
-	paymentAmount=26.0
+	RideID=5020
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='TRA9491'
 
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_RiderBonus
+Successfully Processed by the System, Following are the details:
+
+	BonusId=901
+	BonusDesc='Newly_Joined'
+	BonusCredit=17.0
+
+----------------------------------------------
+Command Add_RiderBonus
+Successfully Processed by the System, Following are the details:
+
+	BonusId=902
+	BonusDesc='Referral'
+	BonusCredit=25.0
+
+----------------------------------------------
+Command Add_RiderBonus
+Successfully Processed by the System, Following are the details:
+
+	BonusId=903
+	BonusDesc='Random'
+	BonusCredit=15.0
+
+----------------------------------------------
+Command Add_RiderBonus
+Successfully Processed by the System, Following are the details:
+
+	BonusId=904
+	BonusDesc='100_Ride_Achevement'
+	BonusCredit=125.0
+
+----------------------------------------------
+Command Add_RiderBonus
+Successfully Processed by the System, Following are the details:
+
+	BonusId=905
+	BonusDesc='Weekly_Promotion'
+	BonusCredit=36.0
+
+----------------------------------------------
+Command Add_RiderBonus
+Successfully Processed by the System, Following are the details:
+
+	BonusId=906
+	BonusDesc='Monthly_Promotion'
+	BonusCredit=2.0
+
+----------------------------------------------
+Command Add_RiderBonus
+Successfully Processed by the System, Following are the details:
+
+	BonusId=907
+	BonusDesc='Special_Promo1'
+	BonusCredit=1.5
+
+----------------------------------------------
+Command Add_RiderBonus
+Successfully Processed by the System, Following are the details:
+
+	BonusId=908
+	BonusDesc='Special_Promo2'
+	BonusCredit=2.5
+
+----------------------------------------------
+Command Add_RiderBonus
+Successfully Processed by the System, Following are the details:
+
+	BonusId=909
+	BonusDesc='Special_Promo3'
+	BonusCredit=1.5
+
+----------------------------------------------
+Command Add_RiderBonus
+Successfully Processed by the System, Following are the details:
+
+	BonusId=910
+	BonusDesc='Special_Promo4'
+	BonusCredit=2.0
+
+----------------------------------------------
+Command Add_Payment
+Successfully Processed by the System, Following are the details:
+
+	PaymentId=301
+	PaymentDesc='Cash'
+	PaymentAmount=10.5
+
+----------------------------------------------
+Command Add_Payment
+Successfully Processed by the System, Following are the details:
+
+	PaymentId=302
+	PaymentDesc='Cash'
+	PaymentAmount=22.0
+
+----------------------------------------------
+Command Add_Payment
+Successfully Processed by the System, Following are the details:
+
+	PaymentId=303
+	PaymentDesc='Wallet'
+	PaymentAmount=28.0
+
+----------------------------------------------
+Command Add_Payment
+Successfully Processed by the System, Following are the details:
+
+	PaymentId=304
+	PaymentDesc='Cash'
+	PaymentAmount=36.0
+
+----------------------------------------------
+Command Add_Payment
+Successfully Processed by the System, Following are the details:
+
+	PaymentId=305
+	PaymentDesc='Cash'
+	PaymentAmount=15.0
+
+----------------------------------------------
+Command Add_Payment
+Successfully Processed by the System, Following are the details:
+
+	PaymentId=306
+	PaymentDesc='Cash'
+	PaymentAmount=8.0
+
+----------------------------------------------
+Command Add_Payment
+Successfully Processed by the System, Following are the details:
+
+	PaymentId=307
+	PaymentDesc='Cash'
+	PaymentAmount=14.0
+
+----------------------------------------------
+Command Add_Payment
+Successfully Processed by the System, Following are the details:
+
+	PaymentId=308
+	PaymentDesc='Wallet'
+	PaymentAmount=34.0
+
+----------------------------------------------
+Command Add_Payment
+Successfully Processed by the System, Following are the details:
+
+	PaymentId=309
+	PaymentDesc='Cash'
+	PaymentAmount=18.0
+
+----------------------------------------------
+Command Add_Payment
+Successfully Processed by the System, Following are the details:
+
+	PaymentId=310
+	PaymentDesc='Cash'
+	PaymentAmount=26.0
+
+----------------------------------------------
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22001
 	Name=Ismail_AlSabani
@@ -574,6 +610,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=534354554
 	Address=Madina
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -585,8 +622,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=14.0
 
 	Rating=4.2
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22002
 	Name=Mohamed_Ali_AlBishi
@@ -595,6 +634,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=505484543
 	Address=Riyadh
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -606,8 +646,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=8.2
 
 	Rating=4.8
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22003
 	Name=Mohammed_AlSalhi
@@ -616,6 +658,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=567854544
 	Address=Jeddah
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -627,8 +670,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=22.5
 
 	Rating=4.5
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22004
 	Name=Youssef_AlMasrahi
@@ -637,6 +682,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=525477415
 	Address=Riyadh
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -648,8 +694,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=14.6
 
 	Rating=4.3
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22005
 	Name=Fatima_AlYassin
@@ -658,6 +706,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=F
 	Phone=547871054
 	Address=Jeddah
+
 ------------------------------------
 
 	WalletBalance=12.0
@@ -669,8 +718,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=5.4
 
 	Rating=4.0
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22006
 	Name=Mohamed_Obaid_AlSahli
@@ -679,6 +730,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=500587414
 	Address=Riyadh
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -690,8 +742,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=3.4
 
 	Rating=4.5
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22007
 	Name=Abdullah_Abkar_AlMouled
@@ -700,6 +754,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=538700454
 	Address=Dammam
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -711,8 +766,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=9.0
 
 	Rating=4.6
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22008
 	Name=Hiba_AlMasrahi
@@ -721,6 +778,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=F
 	Phone=537874123
 	Address=Madina
+
 ------------------------------------
 
 	WalletBalance=3.41
@@ -732,8 +790,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=5.7
 
 	Rating=3.8
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22009
 	Name=Ibrahim_AlHamaidi
@@ -742,6 +802,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=507803485
 	Address=Riyadh
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -753,8 +814,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=10.6
 
 	Rating=3.6
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22010
 	Name=Hadi_Souaan_AlSomaily
@@ -763,6 +826,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=508793215
 	Address=Jeddah
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -774,8 +838,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=8.6
 
 	Rating=4.5
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22011
 	Name=Hamed_Hamadan_AlBishi
@@ -784,6 +850,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=534528754
 	Address=Makkah
+
 ------------------------------------
 
 	WalletBalance=105.6
@@ -795,8 +862,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=17.5
 
 	Rating=4.1
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22012
 	Name=Hamdan_Odha_AlBishi
@@ -805,6 +874,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=505487196
 	Address=Jeddah
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -816,8 +886,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=21.0
 
 	Rating=4.6
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22013
 	Name=Hamdan_Odha_AlBishi
@@ -826,6 +898,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=567894874
 	Address=Jeddah
+
 ------------------------------------
 
 	WalletBalance=14.8
@@ -837,8 +910,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=12.5
 
 	Rating=4.4
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22014
 	Name=Moukhled_AlOutaibi
@@ -847,6 +922,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=525477415
 	Address=Makkah
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -858,8 +934,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=10.5
 
 	Rating=4.7
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22015
 	Name=Abdullah_Abdulaziz_AlJoud
@@ -868,6 +946,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=547871054
 	Address=Jeddah
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -879,8 +958,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=17.5
 
 	Rating=4.3
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22016
 	Name=Hussein_AlYami
@@ -889,6 +970,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=500587414
 	Address=Riyadh
+
 ------------------------------------
 
 	WalletBalance=15.0
@@ -900,8 +982,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=4.5
 
 	Rating=4.1
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22017
 	Name=Maya_Jamaan_AlHamdah
@@ -910,6 +994,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=F
 	Phone=538700676
 	Address=Jeddah
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -921,8 +1006,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=28.5
 
 	Rating=3.9
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22018
 	Name=Alyan_Sultan_Al_Qahtani
@@ -931,6 +1018,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=537874123
 	Address=Dammam
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -942,8 +1030,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=5.3
 
 	Rating=3.7
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22019
 	Name=Tariq_Ahmed_AlAmri
@@ -952,6 +1042,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=547803485
 	Address=Madina
+
 ------------------------------------
 
 	WalletBalance=38.0
@@ -963,8 +1054,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=7.5
 
 	Rating=4.5
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22020
 	Name=Nada_AlSabani
@@ -973,6 +1066,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=F
 	Phone=508793352
 	Address=Jeddah
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -984,8 +1078,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=32.5
 
 	Rating=4.0
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22021
 	Name=Mohammed_AlSalhi
@@ -994,6 +1090,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=534528754
 	Address=Makkah
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -1005,8 +1102,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=22.6
 
 	Rating=4.7
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22022
 	Name=Hamed_Hamadan_AlBishi
@@ -1015,6 +1114,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=505487196
 	Address=Riyadh
+
 ------------------------------------
 
 	WalletBalance=3.0
@@ -1026,8 +1126,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=10.8
 
 	Rating=4.6
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22023
 	Name=Hamed_Hamadan_AlBishi
@@ -1036,6 +1138,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=567894454
 	Address=Jeddah
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -1047,8 +1150,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=13.8
 
 	Rating=4.3
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22024
 	Name=Hani_Souan_AlSomaily
@@ -1057,6 +1162,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=M
 	Phone=525477415
 	Address=Jeddah
+
 ------------------------------------
 
 	WalletBalance=54.5
@@ -1068,8 +1174,10 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=28.8
 
 	Rating=4.4
+
 ----------------------------------------------
-Command Add_Rider: Add a new riders record in the System
+Command Add_Rider
+Successfully Processed by the System, Following are the details:
 
 	ID=22025
 	Name=Hamnah_AlSalhi
@@ -1078,6 +1186,7 @@ Command Add_Rider: Add a new riders record in the System
 	Gender=F
 	Phone=547871054
 	Address=Makkah
+
 ------------------------------------
 
 	WalletBalance=0.0
@@ -1089,104 +1198,28 @@ Command Add_Rider: Add a new riders record in the System
 	Distance=8.2
 
 	Rating=4.0
+
 ----------------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Ismail_AlSabani
-	Assigned to Captain Rida_Ahmad_Zahrani
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Rida_Ahmad_Zahrani
+	Assigned to Rider Ismail_AlSabani
+
 -----------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Mohamed_Ali_AlBishi
-	Assigned to Captain Zahid_Ali
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Zahid_Ali
+	Assigned to Rider Mohamed_Ali_AlBishi
+
 -----------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Mohammed_AlSalhi
-	Assigned to Captain Shahid_Aman
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Shahid_Aman
+	Assigned to Rider Mohammed_AlSalhi
+
 -----------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Youssef_AlMasrahi
-	Assigned to Captain John_Zukie
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Fatima_AlYassin
-	Assigned to Captain Yasser_Ali
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Mohamed_Obaid_AlSahli
-	Assigned to Captain Ahmed_Qahtani
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Abdullah_Abkar_AlMouled
-	Assigned to Captain Zahoor_Rashid
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Hiba_AlMasrahi
-	Assigned to Captain Amna_Ayman
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Ibrahim_AlHamaidi
-	Assigned to Captain Nassr_Alqahtani
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Hadi_Souaan_AlSomaily
-	Assigned to Captain Maryam_Alzahrani
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Hamed_Hamadan_AlBishi
-	Assigned to Captain Rida_Ahmad_Zahrani
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Hamdan_Odha_AlBishi
-	Assigned to Captain Zahid_Ali
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Hamdan_Odha_AlBishi
-	Assigned to Captain Shahid_Aman
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Moukhled_AlOutaibi
-	Assigned to Captain John_Zukie
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Abdullah_Abdulaziz_AlJoud
-	Assigned to Captain Yasser_Ali
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Hussein_AlYami
-	Assigned to Captain Ahmed_Qahtani
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Maya_Jamaan_AlHamdah
-	Assigned to Captain Zahoor_Rashid
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Alyan_Sultan_Al_Qahtani
-	Assigned to Captain Amna_Ayman
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Tariq_Ahmed_AlAmri
-	Assigned to Captain Nassr_Alqahtani
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Nada_AlSabani
-	Assigned to Captain Maryam_Alzahrani
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Mohammed_AlSalhi
-	Assigned to Captain Zahid_Ali
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Hamed_Hamadan_AlBishi
-	Assigned to Captain Yasser_Ali
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Hamed_Hamadan_AlBishi
-	Assigned to Captain Zahoor_Rashid
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Hani_Souan_AlSomaily
-	Assigned to Captain Nassr_Alqahtani
------------------------------------
-Command Assign_Captain_Rider: Successfully Processed by the System, Following are the details:
-	Rider: Hamnah_AlSalhi
-	Assigned to Captain Maryam_Alzahrani
------------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Follow

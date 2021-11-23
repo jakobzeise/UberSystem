@@ -36,8 +36,8 @@ public class RiderBonus {
     @Override
     public String toString() {
         return
-                "\tbonusId=" + getBonusId() + "\n" +
-                "\tbonusDesc='" + getBonusDesc() + '\'' + "\n" +
-                "\tbonusCredit=" + getBonusCredit() + "\n";
+                "\tBonusId=" + getBonusId() + "\n" +
+                "\tBonusDesc='" + getBonusDesc() + '\'' + "\n" +
+                "\tBonusCredit=" + getBonusCredit() + "\n";
     }
 }

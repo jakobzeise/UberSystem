@@ -1,0 +1,67 @@
+------------------ Welcome to Uber ------------------
+
+--------- Current Date :  2021 Nov 24 00:00:14.893 CET--------
+
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+--- Rider Detail are as Follows: ---
+
+	ID=22011
+	Name=Hamed_Hamadan_AlBishi
+	Email=jgh3@gmail.com
+	Date of Birth=Thu May 28 00:00:00 CEST 3868
+	Gender=M
+	Phone=534528754
+	Address=Makkah
+
+------------------------------------
+
+	WalletBalance=105.6
+
+	PickupForm='Rehab
+
+	DropTo='Airport'
+
+	Distance=17.5
+
+	Rating=4.1
+
+------------------------------------
+
+--- Captain Detail are as Follows: ---
+
+	ID=501
+	Name=Rida_Ahmad_Zahrani
+	Email=rida.a@gmail.com
+	Date of Birth=Wed Nov 12 00:00:00 CET 3873
+	Gender=M
+	Phone=534528754
+	Address=Rehab
+	Employee ID=3215
+	Employee Description=Full_time
+	On Leave=true
+	Driving LicenseNo=32154254
+	Total Rides=155
+	Rating=4.2
+ 
+
+------------------------------------
+
+--- UberAdmin Detail are as Follows: ---
+
+	ID=801
+	Name=Mubarak_Alghamdi
+	Email=mubarak@uber.com
+	Date of Birth=Tue Jun 08 00:00:00 CEST 3897
+	Gender=M
+	Phone=547871054
+	Address=Rehab
+	Employee ID=1001
+	Employee Description=Supervisor
+	On Leave=false
+	Department=OperationXL
+ 
+
+------------------------------------
+
