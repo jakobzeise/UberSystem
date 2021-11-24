@@ -50,5 +50,4 @@ public class FileReader {
         reader.close();
     }
 
-
 }

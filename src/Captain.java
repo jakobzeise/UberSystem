@@ -36,7 +36,6 @@ public class Captain extends Employee {
         this.setAddress(address);
         addCaptainToRiderWrite();
 
-
     }
 
     public void addCaptainToRiderWrite() {

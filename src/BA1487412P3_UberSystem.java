@@ -1,9 +1,7 @@
-import java.io.File;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Date;
 
-public class Main {
+public class BA1487412P3_UberSystem {
 
     public static void main(String[] args) {
 
@@ -14,13 +12,11 @@ public class Main {
         fileReader.openReader();
         fileReader.openWriter();
 
-
         //creates a list with all command from input.txt
         ArrayList<String> commandList = fileReader.getCommandListFromInputFile();
 
         //adds the heading to the rideWrite.txt file
         fileReader.addRecords("------------------ Welcome to Uber ------------------\n\n");
-
 
         Captain[] captains = null;
         UberAdmin[] uberAdmins = null;
@@ -261,7 +257,7 @@ public class Main {
                 while (x < command.length) {
                     for (RiderBonus riderBonus : riderBonuses) {
                         if (riderBonus.getBonusId() == Integer.parseInt(command[x])) {
-                            riders[riderIndexBonus].setRiderBonus(riderBonus, x);
+                            riders[riderIndexBonus].setRiderBonus(riderBonus, x-2);
                             fileReader.addRecords("\tRider Bonus added: \n" + riderBonus + "\n");
                         }
                     }
@@ -282,7 +278,7 @@ public class Main {
                 while (x < command.length) {
                     for (Payment payment : payments) {
                         if (payment.getPaymentId() == Integer.parseInt(command[x])) {
-                            riders[riderIndexPayment].setPayment(payment, x);
+                            riders[riderIndexPayment].setPayment(payment, x-2);
                             fileReader.addRecords("\tRider Payment added: \n" + payment + "\n");
                         }
                     }
@@ -294,6 +290,7 @@ public class Main {
             if (command.length > 0 && command[0].equals("Print_Report")) {
                 for (Rider rider : riders){
                     rider.printReport();
+
                 }
             }
 
@@ -303,11 +300,9 @@ public class Main {
                 fileReader.closeReader();
             }
 
-
         }//complete commandList
 
     } //main method
-
 
 }//class
 

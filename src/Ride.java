@@ -47,7 +47,7 @@ public class Ride {
     @Override
     public String toString() {
         return
-                        "\tRideID=" + getRideID() + "\n" +
+                "\tRideID=" + getRideID() + "\n" +
                         "\tRideType='" + getRideType() + '\'' + "\n" +
                         "\tNoOfSeats=" + getNoOfSeats() + "\n" +
                         "\tRegistrationNo='" + getRegistrationNo() + '\'' + "\n";

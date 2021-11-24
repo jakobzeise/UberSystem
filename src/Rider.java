@@ -10,9 +10,8 @@ public class Rider extends Account {
     private double distance;
     private Captain captain;
     private UberAdmin uberAdmin;
-    private ArrayList<Payment> payment;
-    private ArrayList<RiderBonus> riderBonus;
-    //TODO get the Arrays Right
+    private ArrayList<Payment> payments;
+    private ArrayList<RiderBonus> riderBonuses;
     private Ride ride;
     private Date joinDate;
     private double rating;
@@ -47,17 +46,13 @@ public class Rider extends Account {
         this.setPhone(phone);
         this.setAddress(address);
 
-    }
+        payments = new ArrayList<>();
+        riderBonuses = new ArrayList<>();
+        for (int q = 0; q < 25; q++) {
+            payments.add(new Payment(0, "", 0.0));
+            riderBonuses.add(new RiderBonus(0, "", 0.0));
+        }
 
-
-    int getTotalBonus() {
-        // TODO: 21.11.21 get Total Bonus
-        return 0;
-    }
-
-    int getTotalPayment() {
-        // TODO: 21.11.21 get Total Payment
-        return 0;
     }
 
     public double getWalletBalance() {
@@ -84,12 +79,46 @@ public class Rider extends Account {
         return uberAdmin;
     }
 
-    public Payment getPayment(Payment payment, int index) {
-        return payment;
+    public Payment getPayment(int index) {
+        return payments.get(index);
+    }
+
+    public String getAllPayments() {
+        StringBuilder allPayments = new StringBuilder();
+        for (Payment payment : payments) {
+            if (payment.getPaymentAmount() > 0) {
+                allPayments
+                        .append("\tPaymentId: ")
+                        .append(payment.getPaymentId())
+                        .append("\n").append("\tPaymentDesc: ")
+                        .append(payment.getPaymentDesc())
+                        .append("\n")
+                        .append("\tPaymentAmount: ")
+                        .append(payment.getPaymentAmount())
+                        .append("\n\n");
+            }
+        }
+        return allPayments.toString();
+    }
+
+    public String getAllBonuses() {
+        StringBuilder allBonuses = new StringBuilder();
+        for (RiderBonus riderBonus : riderBonuses) {
+            if (riderBonus.getBonusCredit() > 0) {
+                allBonuses.append("\tBonusId: ")
+                        .append(riderBonus.getBonusId())
+                        .append("\n").append("\tBonusDesc: ")
+                        .append(riderBonus.getBonusDesc())
+                        .append("\n").append("\tBonusDesc: ")
+                        .append(riderBonus.getBonusCredit())
+                        .append("\n\n");
+            }
+        }
+        return allBonuses.toString();
     }
 
     public RiderBonus getRiderBonus(int index) {
-        return riderBonus.get(index);
+        return riderBonuses.get(index);
     }
 
     public Ride getRide() {
@@ -128,20 +157,20 @@ public class Rider extends Account {
         this.uberAdmin = uberAdmin;
     }
 
-    public void setPayment(ArrayList<Payment> payment) {
-        this.payment = payment;
+    public void setPayments(ArrayList<Payment> payments) {
+        this.payments = payments;
     }
 
     public void setPayment(Payment payment, int index) {
-        this.payment.add(index, payment);
+        this.payments.set(index, payment);
     }
 
-    public void setRiderBonus(ArrayList<RiderBonus> riderBonus) {
-        this.riderBonus = riderBonus;
+    public void setRiderBonuses(ArrayList<RiderBonus> riderBonuses) {
+        this.riderBonuses = riderBonuses;
     }
 
     public void setRiderBonus(RiderBonus riderBonus, int index) {
-        this.riderBonus.add(index, riderBonus);
+        this.riderBonuses.set(index, riderBonus);
     }
 
     public void setRide(Ride ride) {
@@ -157,20 +186,26 @@ public class Rider extends Account {
     }
 
     public double calNetPayment() {
-        // TODO: 21.11.21 calculate the net Payment
-        return 0;
+        double totalBonus = 0;
+        for (RiderBonus bonus : riderBonuses) {
+            totalBonus += bonus.getBonusCredit();
+        }
+        double totalPayment = 0;
+        for (Payment payment : payments) {
+            totalPayment += payment.getPaymentAmount();
+        }
+        return totalPayment - totalBonus;
     }
 
     public String printRiderBasicInfo() {
-        // TODO: 21.11.21 printRiderBasicInfo
-        return "";
+        return this.toString();
     }
 
     Formatter formatter;
 
-    public void printReport(){
+    public void printReport() {
         try {
-             formatter = new Formatter("RiderReports/" + getId() +
+            formatter = new Formatter("RiderReports/" + getId() +
                     getName().charAt(0) + getName().charAt(1) + getName().charAt(2) +
                     "_Rider_Report" + ".txt");
 
@@ -181,25 +216,28 @@ public class Rider extends Account {
                     "Command Assign_Payment_Rider:\n" +
                     "Successfully Processed by the System, Following are the details:\n\n" +
                     "--- Rider Detail are as Follows: ---\n\n" +
-                    this + "\n\n" +
+                    this + "\n" +
                     "------------------------------------\n\n" +
                     "--- Captain Detail are as Follows: ---\n\n" +
-                    getCaptain()+ "\n\n" +
+                    getCaptain() + "\n" +
                     "------------------------------------\n\n" +
                     "--- UberAdmin Detail are as Follows: ---\n\n" +
-                    getUberAdmin()+ "\n\n" +
-                    "------------------------------------\n\n"
+                    getUberAdmin() + "\n" +
+                    "------------------------------------\n" +
+                    "--- Payment Detail are as Follows: ---\n\n" +
+                    getAllPayments() +
+                    "------------------------------------\n" +
+                    "--- Bonus Detail are as Follows: ---\n\n" +
+                    getAllBonuses() +
+                    "------------------------------------\n" +
+                    "--- Ride Detail are as Follows: ---\n\n" +
+                    getRide() +
+                    "------------------------------------\n" +
+                    "--- Total Net Payment: " + calNetPayment());
 
-
-
-                    //TODO Finish the Report for the Riders
-
-
-            );
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-
 
         formatter.close();
     }

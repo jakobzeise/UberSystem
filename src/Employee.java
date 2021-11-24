@@ -32,8 +32,8 @@ public class Employee extends Account {
     public String toString() {
         return
                 "EmpId=" + empId +
-                "EmpDesc='" + empDesc + '\'' +
-                "OnLeave=" + onLeave ;
+                        "EmpDesc='" + empDesc + '\'' +
+                        "OnLeave=" + onLeave;
     }
 
 }

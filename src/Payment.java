@@ -38,7 +38,7 @@ public class Payment {
     public String toString() {
         return
                 "\tPaymentId=" + getPaymentId() + "\n" +
-                "\tPaymentDesc='" + getPaymentDesc() + '\'' + "\n" +
-                "\tPaymentAmount=" + getPaymentAmount() + "\n";
+                        "\tPaymentDesc='" + getPaymentDesc() + '\'' + "\n" +
+                        "\tPaymentAmount=" + getPaymentAmount() + "\n";
     }
 }

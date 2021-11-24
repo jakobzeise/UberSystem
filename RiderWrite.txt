@@ -1222,4 +1222,1501 @@ Successfully Processed by the System, Following are the details:
 
 -----------------------------------
 Command Assign_Captain_Rider: 
-Successfully Processed by the System, Follow
+Successfully Processed by the System, Following are the details:
+
+	Captain: John_Zukie
+	Assigned to Rider Youssef_AlMasrahi
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Yasser_Ali
+	Assigned to Rider Fatima_AlYassin
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Ahmed_Qahtani
+	Assigned to Rider Mohamed_Obaid_AlSahli
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Zahoor_Rashid
+	Assigned to Rider Abdullah_Abkar_AlMouled
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Amna_Ayman
+	Assigned to Rider Hiba_AlMasrahi
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Nassr_Alqahtani
+	Assigned to Rider Ibrahim_AlHamaidi
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Maryam_Alzahrani
+	Assigned to Rider Hadi_Souaan_AlSomaily
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Rida_Ahmad_Zahrani
+	Assigned to Rider Hamed_Hamadan_AlBishi
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Zahid_Ali
+	Assigned to Rider Hamdan_Odha_AlBishi
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Shahid_Aman
+	Assigned to Rider Hamdan_Odha_AlBishi
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: John_Zukie
+	Assigned to Rider Moukhled_AlOutaibi
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Yasser_Ali
+	Assigned to Rider Abdullah_Abdulaziz_AlJoud
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Ahmed_Qahtani
+	Assigned to Rider Hussein_AlYami
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Zahoor_Rashid
+	Assigned to Rider Maya_Jamaan_AlHamdah
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Amna_Ayman
+	Assigned to Rider Alyan_Sultan_Al_Qahtani
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Nassr_Alqahtani
+	Assigned to Rider Tariq_Ahmed_AlAmri
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Maryam_Alzahrani
+	Assigned to Rider Nada_AlSabani
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Zahid_Ali
+	Assigned to Rider Mohammed_AlSalhi
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Yasser_Ali
+	Assigned to Rider Hamed_Hamadan_AlBishi
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Zahoor_Rashid
+	Assigned to Rider Hamed_Hamadan_AlBishi
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Nassr_Alqahtani
+	Assigned to Rider Hani_Souan_AlSomaily
+
+-----------------------------------
+Command Assign_Captain_Rider: 
+Successfully Processed by the System, Following are the details:
+
+	Captain: Maryam_Alzahrani
+	Assigned to Rider Hamnah_AlSalhi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5001
+	RideType='UberX'
+	NoOfSeats=4
+	RegistrationNo='LRA6452'
+
+	Assigned to Rider: Ismail_AlSabani
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5002
+	RideType='UberXL'
+	NoOfSeats=7
+	RegistrationNo='FNO1212'
+
+	Assigned to Rider: Mohamed_Ali_AlBishi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5003
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='MEH8542'
+
+	Assigned to Rider: Mohammed_AlSalhi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5004
+	RideType='UberX'
+	NoOfSeats=6
+	RegistrationNo='AKA434'
+
+	Assigned to Rider: Youssef_AlMasrahi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5005
+	RideType='UberX'
+	NoOfSeats=7
+	RegistrationNo='SMA9141'
+
+	Assigned to Rider: Fatima_AlYassin
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5006
+	RideType='UberX'
+	NoOfSeats=7
+	RegistrationNo='MAL2574'
+
+	Assigned to Rider: Mohamed_Obaid_AlSahli
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5007
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='RAS8731'
+
+	Assigned to Rider: Abdullah_Abkar_AlMouled
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5008
+	RideType='UberXL'
+	NoOfSeats=7
+	RegistrationNo='WBI9814'
+
+	Assigned to Rider: Hiba_AlMasrahi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5009
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='UAI731'
+
+	Assigned to Rider: Ibrahim_AlHamaidi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5010
+	RideType='UberX'
+	NoOfSeats=4
+	RegistrationNo='LAI7331'
+
+	Assigned to Rider: Hadi_Souaan_AlSomaily
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5011
+	RideType='UberXL'
+	NoOfSeats=4
+	RegistrationNo='CAK5231'
+
+	Assigned to Rider: Hamed_Hamadan_AlBishi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5012
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='FOA3231'
+
+	Assigned to Rider: Hamdan_Odha_AlBishi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5013
+	RideType='UberXL'
+	NoOfSeats=7
+	RegistrationNo='NOM587'
+
+	Assigned to Rider: Hamdan_Odha_AlBishi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5014
+	RideType='UberX'
+	NoOfSeats=4
+	RegistrationNo='LAK4512'
+
+	Assigned to Rider: Moukhled_AlOutaibi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5015
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='ADS8745'
+
+	Assigned to Rider: Abdullah_Abdulaziz_AlJoud
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5016
+	RideType='UberXL'
+	NoOfSeats=6
+	RegistrationNo='ONR5824'
+
+	Assigned to Rider: Hussein_AlYami
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5017
+	RideType='Pool'
+	NoOfSeats=6
+	RegistrationNo='GBR4438'
+
+	Assigned to Rider: Maya_Jamaan_AlHamdah
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5018
+	RideType='UberX'
+	NoOfSeats=4
+	RegistrationNo='OTS4365'
+
+	Assigned to Rider: Alyan_Sultan_Al_Qahtani
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5019
+	RideType='UberXL'
+	NoOfSeats=7
+	RegistrationNo='UTP4982'
+
+	Assigned to Rider: Tariq_Ahmed_AlAmri
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5020
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='TRA9491'
+
+	Assigned to Rider: Nada_AlSabani
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5020
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='TRA9491'
+
+	Assigned to Rider: Mohammed_AlSalhi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5020
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='TRA9491'
+
+	Assigned to Rider: Hamed_Hamadan_AlBishi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5020
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='TRA9491'
+
+	Assigned to Rider: Hamed_Hamadan_AlBishi
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5020
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='TRA9491'
+
+	Assigned to Rider: Hani_Souan_AlSomaily
+
+-----------------------------------
+Command Assign_Ride_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Ride: 	RideID=5020
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='TRA9491'
+
+	Assigned to Rider: Hamnah_AlSalhi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Mubarak_Alghamdi
+	Assigned to Rider: Ismail_AlSabani
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Alaa_Turki
+	Assigned to Rider: Mohamed_Ali_AlBishi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Maqbol_Alqahtani
+	Assigned to Rider: Mohammed_AlSalhi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Liaqat_Jalal
+	Assigned to Rider: Youssef_AlMasrahi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Basher_Bandar
+	Assigned to Rider: Fatima_AlYassin
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Mubarak_Alghamdi
+	Assigned to Rider: Mohamed_Obaid_AlSahli
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Alaa_Turki
+	Assigned to Rider: Abdullah_Abkar_AlMouled
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Maqbol_Alqahtani
+	Assigned to Rider: Hiba_AlMasrahi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Liaqat_Jalal
+	Assigned to Rider: Ibrahim_AlHamaidi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Basher_Bandar
+	Assigned to Rider: Hadi_Souaan_AlSomaily
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Mubarak_Alghamdi
+	Assigned to Rider: Hamed_Hamadan_AlBishi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Alaa_Turki
+	Assigned to Rider: Hamdan_Odha_AlBishi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Maqbol_Alqahtani
+	Assigned to Rider: Hamdan_Odha_AlBishi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Liaqat_Jalal
+	Assigned to Rider: Moukhled_AlOutaibi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Basher_Bandar
+	Assigned to Rider: Abdullah_Abdulaziz_AlJoud
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Mubarak_Alghamdi
+	Assigned to Rider: Hussein_AlYami
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Alaa_Turki
+	Assigned to Rider: Maya_Jamaan_AlHamdah
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Maqbol_Alqahtani
+	Assigned to Rider: Alyan_Sultan_Al_Qahtani
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Liaqat_Jalal
+	Assigned to Rider: Tariq_Ahmed_AlAmri
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Basher_Bandar
+	Assigned to Rider: Nada_AlSabani
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Mubarak_Alghamdi
+	Assigned to Rider: Mohammed_AlSalhi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Alaa_Turki
+	Assigned to Rider: Hamed_Hamadan_AlBishi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Maqbol_Alqahtani
+	Assigned to Rider: Hamed_Hamadan_AlBishi
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Liaqat_Jalal
+	Assigned to Rider: Hani_Souan_AlSomaily
+
+-----------------------------------
+Command Assign_UberAdmin_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Uberadmin: Basher_Bandar
+	Assigned to Rider: Hamnah_AlSalhi
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Ismail_AlSabani
+
+	Rider Bonus added: 
+	BonusId=901
+	BonusDesc='Newly_Joined'
+	BonusCredit=17.0
+
+	Rider Bonus added: 
+	BonusId=902
+	BonusDesc='Referral'
+	BonusCredit=25.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Mohamed_Ali_AlBishi
+	Rider Bonus added: 
+	BonusId=902
+	BonusDesc='Referral'
+	BonusCredit=25.0
+
+	Rider Bonus added: 
+	BonusId=903
+	BonusDesc='Random'
+	BonusCredit=15.0
+
+	Rider Bonus added: 
+	BonusId=910
+	BonusDesc='Special_Promo4'
+	BonusCredit=2.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Mohammed_AlSalhi
+	Rider Bonus added: 
+	BonusId=903
+	BonusDesc='Random'
+	BonusCredit=15.0
+
+	Rider Bonus added: 
+	BonusId=904
+	BonusDesc='100_Ride_Achevement'
+	BonusCredit=125.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Youssef_AlMasrahi
+	Rider Bonus added: 
+	BonusId=904
+	BonusDesc='100_Ride_Achevement'
+	BonusCredit=125.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Fatima_AlYassin
+	Rider Bonus added: 
+	BonusId=905
+	BonusDesc='Weekly_Promotion'
+	BonusCredit=36.0
+
+	Rider Bonus added: 
+	BonusId=901
+	BonusDesc='Newly_Joined'
+	BonusCredit=17.0
+
+	Rider Bonus added: 
+	BonusId=902
+	BonusDesc='Referral'
+	BonusCredit=25.0
+
+	Rider Bonus added: 
+	BonusId=904
+	BonusDesc='100_Ride_Achevement'
+	BonusCredit=125.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Mohamed_Obaid_AlSahli
+	Rider Bonus added: 
+	BonusId=906
+	BonusDesc='Monthly_Promotion'
+	BonusCredit=2.0
+
+	Rider Bonus added: 
+	BonusId=902
+	BonusDesc='Referral'
+	BonusCredit=25.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Abdullah_Abkar_AlMouled
+	Rider Bonus added: 
+	BonusId=907
+	BonusDesc='Special_Promo1'
+	BonusCredit=1.5
+
+	Rider Bonus added: 
+	BonusId=903
+	BonusDesc='Random'
+	BonusCredit=15.0
+
+	Rider Bonus added: 
+	BonusId=904
+	BonusDesc='100_Ride_Achevement'
+	BonusCredit=125.0
+
+	Rider Bonus added: 
+	BonusId=905
+	BonusDesc='Weekly_Promotion'
+	BonusCredit=36.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hiba_AlMasrahi
+	Rider Bonus added: 
+	BonusId=908
+	BonusDesc='Special_Promo2'
+	BonusCredit=2.5
+
+	Rider Bonus added: 
+	BonusId=904
+	BonusDesc='100_Ride_Achevement'
+	BonusCredit=125.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Ibrahim_AlHamaidi
+	Rider Bonus added: 
+	BonusId=909
+	BonusDesc='Special_Promo3'
+	BonusCredit=1.5
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hadi_Souaan_AlSomaily
+	Rider Bonus added: 
+	BonusId=910
+	BonusDesc='Special_Promo4'
+	BonusCredit=2.0
+
+	Rider Bonus added: 
+	BonusId=901
+	BonusDesc='Newly_Joined'
+	BonusCredit=17.0
+
+	Rider Bonus added: 
+	BonusId=909
+	BonusDesc='Special_Promo3'
+	BonusCredit=1.5
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hamed_Hamadan_AlBishi
+	Rider Bonus added: 
+	BonusId=901
+	BonusDesc='Newly_Joined'
+	BonusCredit=17.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hamdan_Odha_AlBishi
+	Rider Bonus added: 
+	BonusId=902
+	BonusDesc='Referral'
+	BonusCredit=25.0
+
+	Rider Bonus added: 
+	BonusId=903
+	BonusDesc='Random'
+	BonusCredit=15.0
+
+	Rider Bonus added: 
+	BonusId=906
+	BonusDesc='Monthly_Promotion'
+	BonusCredit=2.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hamdan_Odha_AlBishi
+	Rider Bonus added: 
+	BonusId=903
+	BonusDesc='Random'
+	BonusCredit=15.0
+
+	Rider Bonus added: 
+	BonusId=904
+	BonusDesc='100_Ride_Achevement'
+	BonusCredit=125.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Moukhled_AlOutaibi
+	Rider Bonus added: 
+	BonusId=904
+	BonusDesc='100_Ride_Achevement'
+	BonusCredit=125.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Abdullah_Abdulaziz_AlJoud
+	Rider Bonus added: 
+	BonusId=905
+	BonusDesc='Weekly_Promotion'
+	BonusCredit=36.0
+
+	Rider Bonus added: 
+	BonusId=901
+	BonusDesc='Newly_Joined'
+	BonusCredit=17.0
+
+	Rider Bonus added: 
+	BonusId=902
+	BonusDesc='Referral'
+	BonusCredit=25.0
+
+	Rider Bonus added: 
+	BonusId=903
+	BonusDesc='Random'
+	BonusCredit=15.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hussein_AlYami
+	Rider Bonus added: 
+	BonusId=906
+	BonusDesc='Monthly_Promotion'
+	BonusCredit=2.0
+
+	Rider Bonus added: 
+	BonusId=902
+	BonusDesc='Referral'
+	BonusCredit=25.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Maya_Jamaan_AlHamdah
+	Rider Bonus added: 
+	BonusId=907
+	BonusDesc='Special_Promo1'
+	BonusCredit=1.5
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Alyan_Sultan_Al_Qahtani
+	Rider Bonus added: 
+	BonusId=908
+	BonusDesc='Special_Promo2'
+	BonusCredit=2.5
+
+	Rider Bonus added: 
+	BonusId=904
+	BonusDesc='100_Ride_Achevement'
+	BonusCredit=125.0
+
+	Rider Bonus added: 
+	BonusId=905
+	BonusDesc='Weekly_Promotion'
+	BonusCredit=36.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Tariq_Ahmed_AlAmri
+	Rider Bonus added: 
+	BonusId=909
+	BonusDesc='Special_Promo3'
+	BonusCredit=1.5
+
+	Rider Bonus added: 
+	BonusId=905
+	BonusDesc='Weekly_Promotion'
+	BonusCredit=36.0
+
+	Rider Bonus added: 
+	BonusId=907
+	BonusDesc='Special_Promo1'
+	BonusCredit=1.5
+
+	Rider Bonus added: 
+	BonusId=908
+	BonusDesc='Special_Promo2'
+	BonusCredit=2.5
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Nada_AlSabani
+	Rider Bonus added: 
+	BonusId=910
+	BonusDesc='Special_Promo4'
+	BonusCredit=2.0
+
+	Rider Bonus added: 
+	BonusId=901
+	BonusDesc='Newly_Joined'
+	BonusCredit=17.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Mohammed_AlSalhi
+	Rider Bonus added: 
+	BonusId=901
+	BonusDesc='Newly_Joined'
+	BonusCredit=17.0
+
+	Rider Bonus added: 
+	BonusId=902
+	BonusDesc='Referral'
+	BonusCredit=25.0
+
+	Rider Bonus added: 
+	BonusId=908
+	BonusDesc='Special_Promo2'
+	BonusCredit=2.5
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hamed_Hamadan_AlBishi
+	Rider Bonus added: 
+	BonusId=902
+	BonusDesc='Referral'
+	BonusCredit=25.0
+
+	Rider Bonus added: 
+	BonusId=903
+	BonusDesc='Random'
+	BonusCredit=15.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hamed_Hamadan_AlBishi
+	Rider Bonus added: 
+	BonusId=903
+	BonusDesc='Random'
+	BonusCredit=15.0
+
+	Rider Bonus added: 
+	BonusId=904
+	BonusDesc='100_Ride_Achevement'
+	BonusCredit=125.0
+
+	Rider Bonus added: 
+	BonusId=905
+	BonusDesc='Weekly_Promotion'
+	BonusCredit=36.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hani_Souan_AlSomaily
+	Rider Bonus added: 
+	BonusId=904
+	BonusDesc='100_Ride_Achevement'
+	BonusCredit=125.0
+
+	Rider Bonus added: 
+	BonusId=905
+	BonusDesc='Weekly_Promotion'
+	BonusCredit=36.0
+
+	Rider Bonus added: 
+	BonusId=901
+	BonusDesc='Newly_Joined'
+	BonusCredit=17.0
+
+	Rider Bonus added: 
+	BonusId=902
+	BonusDesc='Referral'
+	BonusCredit=25.0
+
+-----------------------------------
+Command Assign_RiderBonus_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hamnah_AlSalhi
+	Rider Bonus added: 
+	BonusId=905
+	BonusDesc='Weekly_Promotion'
+	BonusCredit=36.0
+
+	Rider Bonus added: 
+	BonusId=901
+	BonusDesc='Newly_Joined'
+	BonusCredit=17.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Ismail_AlSabani
+
+	Rider Payment added: 
+	PaymentId=301
+	PaymentDesc='Cash'
+	PaymentAmount=10.5
+
+	Rider Payment added: 
+	PaymentId=302
+	PaymentDesc='Cash'
+	PaymentAmount=22.0
+
+	Rider Payment added: 
+	PaymentId=303
+	PaymentDesc='Wallet'
+	PaymentAmount=28.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Mohamed_Ali_AlBishi
+
+	Rider Payment added: 
+	PaymentId=302
+	PaymentDesc='Cash'
+	PaymentAmount=22.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Mohammed_AlSalhi
+
+	Rider Payment added: 
+	PaymentId=303
+	PaymentDesc='Wallet'
+	PaymentAmount=28.0
+
+	Rider Payment added: 
+	PaymentId=304
+	PaymentDesc='Cash'
+	PaymentAmount=36.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Youssef_AlMasrahi
+
+	Rider Payment added: 
+	PaymentId=304
+	PaymentDesc='Cash'
+	PaymentAmount=36.0
+
+	Rider Payment added: 
+	PaymentId=305
+	PaymentDesc='Cash'
+	PaymentAmount=15.0
+
+	Rider Payment added: 
+	PaymentId=306
+	PaymentDesc='Cash'
+	PaymentAmount=8.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Fatima_AlYassin
+
+	Rider Payment added: 
+	PaymentId=305
+	PaymentDesc='Cash'
+	PaymentAmount=15.0
+
+	Rider Payment added: 
+	PaymentId=306
+	PaymentDesc='Cash'
+	PaymentAmount=8.0
+
+	Rider Payment added: 
+	PaymentId=307
+	PaymentDesc='Cash'
+	PaymentAmount=14.0
+
+	Rider Payment added: 
+	PaymentId=308
+	PaymentDesc='Wallet'
+	PaymentAmount=34.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Mohamed_Obaid_AlSahli
+
+	Rider Payment added: 
+	PaymentId=306
+	PaymentDesc='Cash'
+	PaymentAmount=8.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Abdullah_Abkar_AlMouled
+
+	Rider Payment added: 
+	PaymentId=307
+	PaymentDesc='Cash'
+	PaymentAmount=14.0
+
+	Rider Payment added: 
+	PaymentId=308
+	PaymentDesc='Wallet'
+	PaymentAmount=34.0
+
+	Rider Payment added: 
+	PaymentId=309
+	PaymentDesc='Cash'
+	PaymentAmount=18.0
+
+	Rider Payment added: 
+	PaymentId=310
+	PaymentDesc='Cash'
+	PaymentAmount=26.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hiba_AlMasrahi
+
+	Rider Payment added: 
+	PaymentId=308
+	PaymentDesc='Wallet'
+	PaymentAmount=34.0
+
+	Rider Payment added: 
+	PaymentId=309
+	PaymentDesc='Cash'
+	PaymentAmount=18.0
+
+	Rider Payment added: 
+	PaymentId=310
+	PaymentDesc='Cash'
+	PaymentAmount=26.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Ibrahim_AlHamaidi
+
+	Rider Payment added: 
+	PaymentId=309
+	PaymentDesc='Cash'
+	PaymentAmount=18.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hadi_Souaan_AlSomaily
+
+	Rider Payment added: 
+	PaymentId=310
+	PaymentDesc='Cash'
+	PaymentAmount=26.0
+
+	Rider Payment added: 
+	PaymentId=304
+	PaymentDesc='Cash'
+	PaymentAmount=36.0
+
+	Rider Payment added: 
+	PaymentId=305
+	PaymentDesc='Cash'
+	PaymentAmount=15.0
+
+	Rider Payment added: 
+	PaymentId=309
+	PaymentDesc='Cash'
+	PaymentAmount=18.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hamed_Hamadan_AlBishi
+
+	Rider Payment added: 
+	PaymentId=301
+	PaymentDesc='Cash'
+	PaymentAmount=10.5
+
+	Rider Payment added: 
+	PaymentId=303
+	PaymentDesc='Wallet'
+	PaymentAmount=28.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hamdan_Odha_AlBishi
+
+	Rider Payment added: 
+	PaymentId=302
+	PaymentDesc='Cash'
+	PaymentAmount=22.0
+
+	Rider Payment added: 
+	PaymentId=307
+	PaymentDesc='Cash'
+	PaymentAmount=14.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hamdan_Odha_AlBishi
+
+	Rider Payment added: 
+	PaymentId=303
+	PaymentDesc='Wallet'
+	PaymentAmount=28.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Moukhled_AlOutaibi
+
+	Rider Payment added: 
+	PaymentId=304
+	PaymentDesc='Cash'
+	PaymentAmount=36.0
+
+	Rider Payment added: 
+	PaymentId=303
+	PaymentDesc='Wallet'
+	PaymentAmount=28.0
+
+	Rider Payment added: 
+	PaymentId=305
+	PaymentDesc='Cash'
+	PaymentAmount=15.0
+
+	Rider Payment added: 
+	PaymentId=308
+	PaymentDesc='Wallet'
+	PaymentAmount=34.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Abdullah_Abdulaziz_AlJoud
+
+	Rider Payment added: 
+	PaymentId=305
+	PaymentDesc='Cash'
+	PaymentAmount=15.0
+
+	Rider Payment added: 
+	PaymentId=301
+	PaymentDesc='Cash'
+	PaymentAmount=10.5
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hussein_AlYami
+
+	Rider Payment added: 
+	PaymentId=306
+	PaymentDesc='Cash'
+	PaymentAmount=8.0
+
+	Rider Payment added: 
+	PaymentId=302
+	PaymentDesc='Cash'
+	PaymentAmount=22.0
+
+	Rider Payment added: 
+	PaymentId=303
+	PaymentDesc='Wallet'
+	PaymentAmount=28.0
+
+	Rider Payment added: 
+	PaymentId=304
+	PaymentDesc='Cash'
+	PaymentAmount=36.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Maya_Jamaan_AlHamdah
+
+	Rider Payment added: 
+	PaymentId=307
+	PaymentDesc='Cash'
+	PaymentAmount=14.0
+
+	Rider Payment added: 
+	PaymentId=303
+	PaymentDesc='Wallet'
+	PaymentAmount=28.0
+
+	Rider Payment added: 
+	PaymentId=304
+	PaymentDesc='Cash'
+	PaymentAmount=36.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Alyan_Sultan_Al_Qahtani
+
+	Rider Payment added: 
+	PaymentId=308
+	PaymentDesc='Wallet'
+	PaymentAmount=34.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Tariq_Ahmed_AlAmri
+
+	Rider Payment added: 
+	PaymentId=309
+	PaymentDesc='Cash'
+	PaymentAmount=18.0
+
+	Rider Payment added: 
+	PaymentId=305
+	PaymentDesc='Cash'
+	PaymentAmount=15.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Nada_AlSabani
+
+	Rider Payment added: 
+	PaymentId=310
+	PaymentDesc='Cash'
+	PaymentAmount=26.0
+
+	Rider Payment added: 
+	PaymentId=306
+	PaymentDesc='Cash'
+	PaymentAmount=8.0
+
+	Rider Payment added: 
+	PaymentId=307
+	PaymentDesc='Cash'
+	PaymentAmount=14.0
+
+	Rider Payment added: 
+	PaymentId=308
+	PaymentDesc='Wallet'
+	PaymentAmount=34.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Mohammed_AlSalhi
+
+	Rider Payment added: 
+	PaymentId=301
+	PaymentDesc='Cash'
+	PaymentAmount=10.5
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hamed_Hamadan_AlBishi
+
+	Rider Payment added: 
+	PaymentId=302
+	PaymentDesc='Cash'
+	PaymentAmount=22.0
+
+	Rider Payment added: 
+	PaymentId=308
+	PaymentDesc='Wallet'
+	PaymentAmount=34.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hamed_Hamadan_AlBishi
+
+	Rider Payment added: 
+	PaymentId=303
+	PaymentDesc='Wallet'
+	PaymentAmount=28.0
+
+	Rider Payment added: 
+	PaymentId=309
+	PaymentDesc='Cash'
+	PaymentAmount=18.0
+
+	Rider Payment added: 
+	PaymentId=301
+	PaymentDesc='Cash'
+	PaymentAmount=10.5
+
+	Rider Payment added: 
+	PaymentId=305
+	PaymentDesc='Cash'
+	PaymentAmount=15.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hani_Souan_AlSomaily
+
+	Rider Payment added: 
+	PaymentId=304
+	PaymentDesc='Cash'
+	PaymentAmount=36.0
+
+	Rider Payment added: 
+	PaymentId=310
+	PaymentDesc='Cash'
+	PaymentAmount=26.0
+
+-----------------------------------
+Command Assign_Payment_Rider:
+Successfully Processed by the System, Following are the details:
+
+	Rider: Hamnah_AlSalhi
+
+	Rider Payment added: 
+	PaymentId=305
+	PaymentDesc='Cash'
+	PaymentAmount=15.0
+
+	Rider Payment added: 
+	PaymentId=304
+	PaymentDesc='Cash'
+	PaymentAmount=36.0
+
+	Rider Payment added: 
+	PaymentId=307
+	PaymentDesc='Cash'
+	PaymentAmount=14.0
+

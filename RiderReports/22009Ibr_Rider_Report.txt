@@ -1,6 +1,6 @@
 ------------------ Welcome to Uber ------------------
 
---------- Current Date :  2021 Nov 24 00:00:14.892 CET--------
+--------- Current Date :  2021 Nov 24 20:39:41.715 CET--------
 
 Command Assign_Payment_Rider:
 Successfully Processed by the System, Following are the details:
@@ -26,7 +26,6 @@ Successfully Processed by the System, Following are the details:
 	Distance=10.6
 
 	Rating=3.6
-
 ------------------------------------
 
 --- Captain Detail are as Follows: ---
@@ -45,7 +44,6 @@ Successfully Processed by the System, Following are the details:
 	Total Rides=368
 	Rating=4.45
  
-
 ------------------------------------
 
 --- UberAdmin Detail are as Follows: ---
@@ -62,6 +60,26 @@ Successfully Processed by the System, Following are the details:
 	On Leave=false
 	Department=OperationPOOL
  
+------------------------------------
+--- Payment Detail are as Follows: ---
+
+	PaymentId: 309
+	PaymentDesc: Cash
+	PaymentAmount: 18.0
 
 ------------------------------------
+--- Bonus Detail are as Follows: ---
 
+	BonusId: 909
+	BonusDesc: Special_Promo3
+	BonusDesc: 1.5
+
+------------------------------------
+--- Ride Detail are as Follows: ---
+
+	RideID=5009
+	RideType='Pool'
+	NoOfSeats=4
+	RegistrationNo='UAI731'
+------------------------------------
+--- Total Net Payment: 16.5
